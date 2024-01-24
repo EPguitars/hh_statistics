@@ -1,0 +1,5487 @@
+С
+Win
+АСУ ТП
+Ulift modeling
+JS/React
+ROS/ROS2
+Net Framework 4.*
+Маршрутизация динамическая
+Roistat
+Libvirt
+Zoom
+BigQuery
+Datalens
+Работа с документами
+Learning Management System
+Django
+RDBMS
+Продуктовые метрики
+Редтим
+type script
+ReSharper
+CPO
+Revenue Management
+интеграции с 1С
+Fiddler
+Test scenario
+работа с данными
+TeamCity
+A/B тестирование
+Pulsar
+Разбор инцидентов
+Slack
+Системное мышление
+ArtCAM
+Работа с системами аналитики
+nativephp
+photon
+Грамотность
+Самостоятельная работа
+IDA
+Многозадачность
+Разработка инструкций
+SOLID
+ОСРВ типа Windriver VxWorks
+dwh
+Управление HR брендом
+regex
+Java Card
+NextJs
+СУБДД: MS SQL PostgreSQL Oracle
+1С:Управление холдингом
+Clusterware
+Oracle Database
+SCORM
+Тестирование на проникновение
+kotlin
+Maven/Gradle
+3D
+Vuejs
+PWA
+LSP
+Разработка
+Составление сметно-проектной документации
+Pixi.js
+Выявление каналов утечки информации
+модель прогнозирования потерь
+Ролевая модель
+English (upper-intermediate and better)
+Автотесты
+Higher technical education
+Hilt
+Rendering
+Atlassian Jira
+A/B-тесты
+Android Studio
+Hyperledger Fabric
+PHP Unit
+Многопоточные программы
+OLAP
+программист
+Coin
+Primo
+Victoria metrics
+QA automation
+moment
+инженер иб
+key-value
+Календарно-сетевое планирование
+MS Visual Basic
+VIPER
+ReactJS/Angular/VueJS
+Travis CI
+Shop-script
+Нейронные сети
+RS485
+Xen
+Нейронная сеть
+Autodesk Revit
+XCUITest
+SAP CRM
+GPU
+Способность анализировать проблемы
+NGS
+mvi
+fastAPI
+Английский — A2 — Элементарный
+CISSP
+Руководство коллективом
+.NET
+Marketing Analysis
+Terragrunt
+StimulSoft
+Maven
+Code Review
+Реклама
+Finagle
+Vue2
+Sourcetree
+Kaspresso
+Fs cache
+Thunk
+Amesim
+sed
+Лидерские качества
+администрирование ит инфраструктуры
+IBD
+Keras
+AXI-Stream
+Сбор и анализ информации
+техническая анимация
+Моделирование сроков
+Influx
+nuxt.js
+B2B
+QORT
+PHP 7.x
+GetCourse
+WEB.API
+Elasticsearch
+Spark SQL
+Ispring
+3ds Max
+Техническая эксплуатация
+PHP 8
+Медицинское оборудование
+Внедрение систем
+Создание сайтов
+Оптимизация бизнес процессов
+Java11
+Swarm
+Artifactory
+Recommender systems
+Мобильная разработка
+Оценка кандидатов
+Дата инженер
+Базовые знания SQL
+СВЧ устройства
+Умение проектировать и разрабатывать API (как REST, так и gRPC)
+NuxtJS
+C#, .Net, ООП, Паттерны проектирования, Реляционные БД, Опыт промышленной разработки, CVS, CI
+MapInfo Professional
+firebase
+Tilda
+разработка логистики
+Sailfish
+Windows Server
+Проектная документация
+Ручное тестирование
+Мониторинг рынка
+Управляемые формы
+NLP Engineer
+SQL-injection
+Документирование
+Кадровый менеджмент
+Рентгеновское излучение
+BI аналитика
+DOORS, Jama
+Работа с банками
+Оптимизация технологических процессов
+kaldi
+DAST
+python 3
+Проведение расчетов на прочность
+material
+BPM Soft
+Tomcat
+Kong API Gateway
+Scratch
+Integromat
+SoapUi
+TAC
+Умение организовать работу, планировать, принимать решения
+Технологические процессы
+OSEP
+rest api
+vue js
+NET
+Java 8/11+
+User story
+Локальные сети
+BIOS
+Microsoft Visual Studio
+Generative Design
+SCADA
+Linux (Redhat)
+ЕСМ
+Финансовый анализ
+web tutor
+IBM Cognos BI
+Анализ ассортиментной линейки
+IT Recruitment
+Web-дизайн
+RabbitMQ
+Google Big Query
+IEEE, ISO/IEC
+Workflow
+Llama
+тим лид
+Интерес к IT
+Google Таблицы
+MockK
+Производство пусконаладочных работ
+Open API
+TMS Systems
+OpenLayers
+Marketing Events
+BRF
+Superset
+Организация региональных трейд-маркетинговых кампаний
+Calltouch
+ceph
+Yandex data Lens
+Keitaro
+алгоритмический трейдинг
+MicroBlaze
+Rest Api
+OPC AU
+TRPC
+Gatling
+java/kotlin
+GitHub
+Отчетность по закупкам
+Webpack Module Federation
+Программирование ПЛК
+РД 50-34
+Redash
+Android studio
+Informatica
+Офисная техника
+liquibase
+Hibernate ORM
+SEO оптимизация
+openssl
+HTML5
+Прием и распределение звонков
+1С: CRM ПРОФ
+geoserver
+Логическое мышление
+Angular 8+
+Автоматизация технологических процессов
+sgrc
+Пользователь ПК
+Technical Translation
+Проведение внутренних расследований
+Телекоммуникации
+PostrgreSQL
+ОВЕН
+Управление проектами
+sklearn
+продажи
+тестирование backend
+Межсервисный обмен
+риски
+WebSocket
+Information Security
+HTML/CSS
+Collection
+SQL, PostgreSQL, RabbitMQ, Agile, Jira, Confluenсе, Kafka, SOAP API, XML/XSD, JSON/JSON-Schema, HTT
+blockchain
+Битрикс
+MaridaDB
+backend programming
+Аналитика рынка заработных плат
+Валидная верстка
+Metabase
+Аналитическое мышление
+angular
+Математическое моделирование
+Jaeger
+IRP
+BusinessObjects
+Java Native Library
+Catboost
+OVirt
+Fortnite
+HIL
+Graphite
+Rest Soap
+Sales Planning
+LISP
+B2C исследования
+Wallet
+Ввод в эксплуатацию
+OpenProject
+Менеджер проектов в IT
+Стремление к повышению профессионального уровня
+Аварийно-восстановительные работы
+Проектирование встраиваемого ПО
+siem
+Bitrix
+Модельный риск
+проведение собеседований
+Zend Framework
+Производственные системы
+GHIDRA
+Gradle
+Zapier
+ci/cd
+Webpack Docer
+Стабильность
+ПВР
+Photoshop
+QGIS
+Деловой этикет
+Fronend разработка
+Saga
+VanilaJS
+PHP+
+Proхmox
+Желание учиться и развиваться
+Autodesk Maya
+phpMyAdmin
+ФС HDFS
+Unigine
+Artefactory
+API JSON,
+Adobe Photoshop
+communication skills with manners
+Opencart
+Консультация пользователей
+Управление проектом
+ASP.NET Core 6.0
+Red Hat Linux
+Работа с возражениями
+Torchvision
+1C:КА
+JDBC
+multithreading
+RTL
+Ведение документации
+Articulate Rise
+Графика
+Обработка видео
+Оптимизация бизнес-процессов
+Бюджетирование
+Опыт удаленной работы
+React-router
+Js
+подбор руководителей
+Разработка стратегий принятия решений
+Знание устройства автомобиля
+1С:ЗКГУ
+flex-box
+Структурированность
+leaflet.js
+Google Analitics
+loadbalancer
+Observability
+Mariadb
+DRF
+Портфельные риски
+Excel (OLAP, Power Query, макросы)
+Стратегический менеджмент
+NetBackup
+JavaScript ES6+
+Развитие ключевых клиентов
+расставлять приоритеты
+RDC
+Композиты
+web soket
+GitFlow
+Selenium Webdriver
+СlickHouse
+Abaqus
+IBM Cognos Analytics
+HPE StoreOnce
+802.11
+Loki
+Яндекс.Метрика
+KMM
+Охрана труда
+Sybase
+Roadmap
+GD32
+Ext JS
+Jetson
+AkkaStream
+Radix UI
+numpy
+SQLite
+ReactJS
+Умение эффективно работать в команде
+C Programming
+Переговоры с ЛПР
+Подготовка коммерческих предложений
+Первичная адаптация
+WebGL
+Холодные продажи
+OSI
+испытания микросхем
+Разработка косметических средств
+Разработка сайта
+Yandex Message Queue
+IDS
+PSQL
+fujitsu
+enthusiasm to achieve goals
+SoC
+Apollo
+React-Native
+микросервисы
+Trade Marketing
+Android HAL
+Сicerone
+ES
+CompositionAPI
+Google Ads
+Insomnia
+Алерты
+Аналитика закупок
+web3
+MITRE ATT&CK
+ELT
+ИТ Лидер
+Androidx Room
+Архитектурные паттерны
+HTTP(s)
+внутренний аудит сайта
+NestJS
+MaterialUI
+Analytics
+Employee Monitoring Software
+Архитектура
+инженер информационной безопасности
+Чтение чертежей
+Цифровизация
+Mocking Data
+Tilewind
+Написание технических заданий
+WorkManager
+PHP vulnerabilities
+С11
+КИПиА
+MacOS
+FlyWay
+Microsevices
+Moneyplace
+Научные статьи
+PBI
+Hasura
+Корейский — B2 — Средне-продвинутый
+U-Boot
+Оценка рисков
+React Hook Form
+Процессы тестирования
+Поддержка пользователей
+радиотехника
+Yandex DataLens
+Consumer Goods
+Git
+MSSQL
+Formik
+WEB аналитика
+jest
+k6
+Развитие бизнеса
+multiprocessing
+Биржевые торги
+Dagger
+нетиповые конфигурации
+Креатио
+Аналитический склад ума
+Vue-bootstrap
+Data
+Запуск нового бренда
+1C-Bitrix
+realtime
+RUST
+unit - экономика
+S3
+Airflow
+ExoPlayer
+MTProto
+pentest
+wordpress
+Расчёт страховых резервов
+MLOps
+Play framework
+Gigabyte
+Yii 2
+IT-стратегия
+PaaS
+Data infastructure
+Vue js/React js
+GRC
+kubernetes
+Расстановка приоритетов
+HTML-верстка
+Mercurial
+Linux (Ubuntu)
+scipy
+Clean Code
+shadcn ui
+Умение работать как самостоятельно, так и в команде
+Selenide
+SQLAlchemy
+STM 32
+Prisma ORM
+Microservice architecture
+solid
+Внимательность, ответственность
+OWASP
+React/Angular/Vue, React Native, Go, Node.js, Kotlin, PostgreSQL, MongoDB + Docker, Kafka
+On-premise решения
+Adobe Effects
+apache
+XGboost
+Контроль состояния оборудования
+Искусственный интеллект AI
+Знание 1 С
+Информатика
+PTAF
+Minio
+1С: Документооборот
+CNN
+1С: Предприятие
+MySQL
+Pandas
+RSpec
+Внутренний аудит информационных систем
+NX
+Разработка электросхем
+web тестирование
+Объектно-ориентированное проектирование
+Администрирование серверов
+AGV
+Web Application Development
+Санпин
+Frontend Backend
+KAfka
+1С: ERP
+Разработка косметики
+Английский — C1 — Продвинутый
+СберКлауд
+Testflows
+EDR
+Zeebe
+Ведение клиентской базы
+Yard
+threading
+Язык C
+Желание развиваться
+Редакторская деятельность
+RCE
+ABBYY
+Архитектор
+CHD
+sequence
+Настройка ПО
+QtWedgets
+Менеджер IT проектов
+CRUD
+Inner Products
+flutter
+Умение работать с реляционными и No SQL базами данных
+Налоговые проверки
+UML-схемы
+VLAN
+OpenAccess
+KSMG
+After Effects
+Siemens
+MS Word
+Структуры данных
+uno platform
+Обследование сетевой инфраструктуры
+Анализ конкурентной среды
+Telegraf
+Консультативные продажи
+Eclipse Vert.x
+Penetration testing
+BTL
+Aiohttp
+XBRL
+Qlik Sense
+технологии защиты информации
+pytorch
+bloc
+Принципы REST
+Креативность
+Большие данные
+OMS
+Топоматик Robur
+GNU Linux
+libfuzzer
+Programming
+Организация мероприятий для сотрудников
+R-Keeper
+Mathematical
+Электрические системы и слаботочные системы
+Avro
+Presentation skills
+Data Aware Design
+HIG
+Навыки программирования (JavaScript)
+Stylus
+Инвестиционная деятельность
+Умение вести переговоры
+Power query
+Layered pattern
+Навыки межличностного общения
+angular material
+Cordova
+Vue2\3
+Dagger 2
+JetPack Compose
+back-end dev(Nest)
+С/С ++
+Jinja
+JMIX
+Wireshark
+SOLID/DRY/KISS
+SCM
+Аттестация персонала
+GTA dev
+Транспортная логистика
+Postman
+Gazebo
+создание новых модулей
+ASP.NET WebApi
+Ценные бумаги
+Kamailio
+Сетевые технологии
+Windows/Linux
+C# (Base Types Library, Generics)
+АСУ
+1day
+Design management
+Express.js
+Управление ИТ инфраструктурой
+Fast API
+Яндекс.Директ
+API
+Обработка сигналов
+Создание презентационных материалов о компании
+StoreKit
+Внутренний аудит
+OAM
+Robot framework
+Web security
+корпоративные бизнес-приложения
+Redux-Form
+HashiCorp Vault
+Нормативные документы Банка России
+Cognito
+Когортный анализ
+Подготовка метрик
+Способность работать в режиме многозадачности
+Axios
+Программы лояльности для клиентов
+Science
+GPGPU
+многопоточность
+.net MVC
+Настройка серверов
+мало опыта
+Сосредоточенность
+Озон
+Базы данных
+WinForms
+Nagios
+Внимательность к деталям, способность работать с большими массивами информации
+ведение преговоров
+Java 1.8
+JSON API
+Улаживание конфликтов
+flume
+Трудовое законодательство РФ
+Docker, Kubernetes, OpenShift
+WinAPI
+TensorFlow
+NB-IoT
+Производство обуви
+администрирование проектов
+Лидерство
+DevExtreme
+Обработка изображений
+Loginom
+проектирование систем информационной безопасности
+Spart Streaming
+Творческое мышление
+Modeling
+Open Source
+Arenadata
+Анализ данных
+Teradata
+TIA Portal
+Гостиничный менеджмент
+Pipeline
+Dell Data Domain
+Программирование
+YARN
+UE4
+Sinumerik
+AlertManager
+DockerGitAPI
+Аудит безопасности
+DML
+Рекламные сети
+Индивидуальный подход
+Web Sockets
+No-code
+Тестирование backend
+Raspberry PI
+figma
+Single Activity
+КХД
+Android Product Flavors
+MongoDB
+Пайпланы
+Adapter Delegates
+Grafana, Vertica, Redash
+ROS2
+cargo-fuzz
+Инициативность
+Linux Shell
+k8s, GitLab, Kibana, Grafana
+Spider Project
+Опыт работы с асинхронным кодом
+Russian Accounting Standards (RAS)
+Webasyst
+wireframing
+PHP
+DevTools
+Поддержка L3
+чеклист
+S32R274
+Аналитические системы
+Уверенные знания SQL (любой диалект)
+Oracle Forms
+Adobe Illustrator
+WhatsApp-боты
+QMake
+Инфраструктура Интеграции
+баз данных
+Честный Знак
+техподдержка
+ETL Framework
+Разработка Логистики
+Кадровое проектирование
+ROI
+datetime
+Извлечение сущностей
+Pentaho
+HDL
+Material Design
+ИТ-оборудование
+Programmatic
+Campus insight
+RecSys
+Learning management system
+ETL Informatica
+Solution
+Python (numpy)
+swift
+Apache Tomcat
+RDP
+windows
+беттинг
+Low-code
+Работа с технической документацией
+STM
+SMS маркетинг
+VR
+HR-Generalist
+Koin
+Автоматизированное тестирование
+финансы
+jira
+БД
+IBM SPSS
+VTOL
+Базовое программирование 1С
+ESXI
+Virtualization
+MITRE
+Организация мероприятий
+Aerospike
+ERP Systems
+Redteam
+nexus
+IBM Cognos
+docker
+Мобильные приложения
+Vue router
+draw.io
+openstack
+Тест кейсы
+Массовый подбор персонала
+БПМСофт
+chat-bot
+веб-разработка
+back end
+Asio
+Мобильность
+оформление документации
+Security Intelligence
+Поиск резюме
+Запуск новых продуктов
+Turbo Pascal
+programming
+Телефонные переговоры
+C
+Адаптивная верстка
+B2C маркетинг
+управления кросс-функциональной командой
+Составление описания должностей
+Внимательность к деталям
+Sales Skills
+Бэкенд
+Страховые тарифы
+ССПИ
+OAuth2
+golang
+Оценка потребностей клиентов
+геоданные
+навыки верстки/декомпозиции макетов
+Java, SQL, Python, Selenium, JUnit для Java, REST API, Jira, Confluenсе
+DevSecOps
+Проведение телефонных интервью
+Малоэтажное строительство
+user flows
+Наружная реклама
+oVirt
+Razor Pages
+RTCA DO, FAA TSO/ EASA ETSO
+Eclipse
+s3
+Java SE 8+
+директ-коммуникация
+Animation
+Аудит
+СУБД Hive
+Microsoft Azure Service Fabric
+Presto
+Web Api (REST)
+Sniffer
+Nordic
+MS Integration Services
+Bamboo
+Delphi
+Инженер БПЛА
+Тайминг
+DataLense
+геопортал
+Х-ray
+Разработка поисковых технологий
+ТОиР
+Scipy
+ml-моделирование
+AvaloniaUI
+IPMA
+ITIL
+LL-HLS
+Event Sourced Data;
+GeoPandas
+DAX
+Agile, SCRUM
+валидация
+SqlAlchemy
+аккаунт-менеджер
+drf
+AA тесты
+Devtools
+Dagger2
+Yandex Cloud Platform
+Регресcионное тестирование
+EPLAN P8
+шардирование
+Английский — A1 — Начальный
+Командообразование
+GNU
+MS Excel (сводные таблицы, макросы)
+Конкурентная аналитика
+Руководитель проектов в IT
+Готовность самостоятельно принимать решения
+OPC
+яндекс.вебмастер
+партицирование
+FreeIPA
+Leadership Skills
+PL/SQL
+Keynote
+Интервьюирование стейкхолдеров
+оператор станков с ЧПУ
+Avid Media Composer
+Ansi C++
+MDM
+Continuous penetration testing
+pyspark
+веб-сервер
+Яндекс.Танк
+Unity 3D
+Электронная почта
+Mindbox
+Модель OSI
+CPA
+Business intelligence
+Altium Designer
+devTools
+Doctrine ORM
+restassured
+Хранилища данных
+Threat Intelligence
+C#
+Nerpa
+облако
+View
+Oil And Gas
+TI
+BI Publisher
+Java 8+
+Техническая поддержка
+Английский язык
+фреймворк
+JavaScript (ES6/7)
+Amplitude
+Opennebula
+IBM MQ
+Forecasting
+Microsoft IIS
+Phalcon
+Azure DevOps Pipelines
+RRC
+Public Speaking
+ERD-диаграммы
+docker swarm
+laravel
+Опыт работы в команде
+DBA
+APS
+Неординарное мышление
+AVR
+Skillcup
+Web программист
+ROS
+Логистика
+mobile
+ЕСКД
+ant system
+Java/Scala
+GlusterFS
+Pyspark
+Консультирование
+Настройка сетевого оборудования
+NFS/CIFS
+RamdaJS
+Вебинары
+Microsoft Access
+Greenplum
+soc
+web разработка
+Prisma
+GraphQL (Apollo Client)
+Arduino
+React.JS
+MAUI
+разработка программного кода
+VueJS
+tampermonkey
+java script
+FreeSwitch
+TypeORM
+маркетплейс
+Gin
+Стрессоустойчивость
+Apache Hadoop
+Gradle/Maven
+Продажи юридическим лицам
+My SAP ERP
+amplitude
+Olap (online analytical processing)
+Стенды
+аккуратность
+ExpressJS
+Быстрое обучение
+Аккредитованная ИТ компания
+Работа с базами данных
+Групповое обучение
+dio/freezed
+Подбор оборудования
+data management
+HighLoad
+Lodash
+dagger
+MS SQL, Oracle, PostgreSQL, MongoDB, Vertica, ClickHouse)
+Troubleshooting
+1С: Производство
+Machine vision\OCR
+IaaS
+DLP
+Стратегический консалтинг
+Техническая документация
+банковские бизнес-процессы
+Профессиональный пользователь ПК
+Системный анализ
+Specflow
+АРМ СРЗА
+Customer development
+Source Control
+Управление командой
+Spring Boot 2
+Oracle Application Express
+Sensu
+Smart Fraud Detection
+Автоматизация процессов
+MVVM
+DS
+Objective-С
+MS SQL
+Siebel Loyalty
+BDUI
+Flask Framework
+разработка баз данных
+Haskell
+Oracle Pl/SQL
+Data lake
+Ответственность и пунктуальность
+Готовность к обучению
+Анализ финансовых показателей
+SEO-копирайтинг
+СМЭВ
+Indusoft Web Studio
+MS SQL Server
+Анализ ценообразования
+UI Kit
+Apache Iceberg
+No-Code
+karma
+Ведение групп в социальных сетях
+php seleneum
+Качество данных
+Технические системы и средства безопасности
+OPC UA
+Ni-Fi
+Storybook
+Embarcadero Delphi
+PIX
+Мультимедийные системы
+Civil 3D
+debug
+Websocket
+Semgre
+UIPath
+bundlers
+Пентест
+Subject
+Компьютерное зрение
+Работа на выставках
+Cawemo
+опыт коммерческой разработки
+Бизнес-консультирование
+PL
+Кроссбраузерная верстка
+IPMI
+1С: Управление предприятием
+CMS-системы
+Системы связи
+jQuery
+Voice Assistant
+Vue.js
+Актуарная деятельность
+MIPS
+Твердомер
+Цифровые продажи
+MS VBA
+Yandex tracker
+Работа в команде
+MaxPatrol
+PostgeSQL
+Yocto project
+Участие в профессиональных выставках
+ML-модели
+Паттерны проектирования
+low-code
+socket
+Vaadin
+Внутренний контроль
+Spring / Spring Boot
+ядро Linux
+mipi
+HTML CSS
+scss
+Анализ посещаемости сайтов
+nordic
+уязвимостями, Киберразведки (RedTeam/Pentest)
+бухгалтерия
+разработчик
+Paging3
+Salt
+РЕПО
+Data-аналитика
+Azure
+аналитика маркетплейсов
+Web-socket
+CQRS & EventSourcing
+UI
+Equity research
+Продвижение сайтов
+Знание иностранных языков
+Ценообразование
+MobX
+Training & Development
+Fullstack
+Exponea
+Нотации
+Сетевое решение
+Python3
+Data Engineering
+recommender systems
+Серверное оборудование
+Security Operation Center
+Продвинутый пользователь ПК
+sqlalchemy
+Администрирование сетевого оборудования
+jaeger
+Преподаватель
+Lightship
+суиб
+BigData DWH
+SwaggerUI
+Нацелен на результат
+Разработчик
+MBIST
+ETL
+Jetpack compose
+IDE
+Exit интервью
+Redis, Sidekiq
+Deeplab
+тестовая документация
+Обучаемость
+0day
+Rancher RKE2
+Quarkus
+Softwate architecture
+Добросовестность
+Rive
+NHibernate
+User Stories
+libvirt
+vuex
+ZIO
+RAID
+аналитика данных
+allure
+Multithread Programming
+Java vulnerabilities
+MS CRM
+интервью по компетенциям
+Data analyst
+Data Scientist
+DASH
+webgl
+sips
+Clean Architecture
+MS Dynamics NAV
+spring
+PL/PGSQL
+код-ревью
+DVM
+RXJS
+MPI
+Apache Airflow
+system-on-chip
+PrimeNg
+WAF
+Senior Analyst
+Тексты по технической тематике
+adb
+DMA
+СУБД
+Чтение чужого кода
+Руководство командой тестировщиков
+Jupyter
+Самообучаемость
+РЭА
+Системный аналитик
+Customer Development
+Qml
+Математическая статистика
+Выявление потребностей в обучении
+Headhunting
+Next
+Blazor
+Мотивация
+pytest
+умение проявлять внимание, заинтересованность, дружелюбие
+лидген
+Маркетинг, реклама, PR
+Axure RP
+Работа с поставщиками
+Apache Ni-Fi
+Power BI
+Автоматизация отчетности
+FraudWall
+CVE
+MLflow
+Знание устройств РЗА
+systemd
+OWASP Top10
+U-Net
+ISO 27000
+Умение работать с большим количеством информации
+UI киты
+кредитный конвейер
+ORACLE PL/SQL.
+Event Sourcing
+План-фактный анализ бюджета
+кроссбраузерная разработка
+торговая площадка
+Doctrine
+Java Core
+Разведка по открытым источникам
+Opensearch
+Queues
+Orаcle
+GCC
+Astro Build
+FastApi
+Развитие продаж
+Знание модели ADDIE
+DBT
+TDD
+ANSYS
+STL Blender
+Опрятный внешний вид
+bitrix
+ml
+Naumen
+ASP.NET Core. Blazor
+Аналитика продаж
+MolecularJS
+Aglie
+PhpStorm
+Дата аналитика
+Бухгалтерский учет
+Администрирование серверов Windows
+UX-исследования
+Обучение персонала
+JRuby
+Внутренний аудит контекстной рекламы
+Openshift
+Микроконтроллер, Ассемблер, С, Английский, ADSP, Xilinx, электрические преобразователи
+Tablue
+Анализ конкурентов
+wireless
+C#.Net core
+Start-up project
+highload
+Составление семантического ядра
+Грамотная речь
+Компас
+Databricks
+Wolfram Mathematica
+Mac Os
+Продвижение в социальных группах
+Design System
+FrontEnd разработчик
+ab тесты
+System Analysis
+OS Unix-like
+greenplum
+Jmeter
+Стоматологические композиты
+Эксплуатационные документы
+SAP GRC
+Английский — B1 — Средний
+FFT
+Достижение результата
+Collections
+Erlang
+Primavera
+OWASP API
+SPL
+WMS
+asyncio
+Business Intelligence Systems
+Symfony
+Сметы
+REST Api
+Инженер-программист
+RabbitMQ/Kafka
+FW
+SOA
+Electron.js
+cpack
+Настройка почтовых серверов
+RTOS
+JS
+Статистическая обработка
+Rancher
+Поиск уязвимостей
+vue3
+СУБД MS SQL
+TailwindCSS
+Cicerone
+pre-sale
+маршрутизация
+ведение технической документации
+Блочная верстка
+Linux API
+Pure Storage
+Apollo GraphQL
+12 factor app
+Java 17+ / Kotlin
+ActiveMQ
+Опыт работы с детьми
+Юридическое сопровождение
+микроконтроллер
+Продажи
+BLE
+Дети
+Анализ ФХД
+Docker Containers
+GraphQL (Absinthe)
+Mezzio
+VMWare/Docker/K8s
+обучение сотрудников
+IDE Xcode
+Direct Marketing
+Graphql
+Опыт работы с системами мониторинга Zabbix, Nagios, Grafana
+ЗУП Корп 3.1
+Drupal API
+тест-дизайн
+Roblox
+power bi
+AWS
+слаботочные системы
+Основы HTML
+Coroutine
+Devops/SRE
+214-ФЗ
+Оценка компетенций
+Google Analytics Universal
+nextjs
+J2EE
+Websoft HCM
+AI/ML
+Умный дом
+TDORP
+DOM
+Openshift unit
+1C: Финансы
+Yocto
+Chef
+Lotus
+Интернет-магазин
+мониторинг моделей
+ServiceDesk
+R
+SAP UI5
+ВКонтакте
+Deep learning
+Научные исследования
+logstash
+Формирование отчетов
+ALDPro
+soar
+VMware ESXi
+Решение нестандартных задач
+Работа в Excel
+Водительское удостоверение категории B
+Работа с чертежами
+Разработка приложений для Linux
+Методы оптимизации
+Deltalake
+ES5
+Модульное тестирование
+Валидация моделей
+Высоконагруженность
+Клиентоориентированность
+Оптимизация налогообложения
+Vivado
+Telethon
+Object Pascal/Delphi
+Целеустремленность, работоспособность, внимательность
+ЕГЭ
+IEEE
+Компас-3D
+Architect
+Ssdl
+Buildroot
+Flash MySQL
+GFK
+ASP.NET CORE
+Combine
+Настройка микрофронтов
+Rabbit
+Vuetify
+ASIC
+ARINC 429, 664, 653, 661, 702, SAE 4754A, RTCA DO-178C, DO-330
+разработка сайта
+Китайские комплектующие
+Unit Testing
+хостинг
+ESlint
+Коучинг
+Коммуникабельность, ответственность
+Перевод
+UGUI
+iSCSI
+Штрихкодирование
+SoMachine
+U-net
+Large scale
+Sdl
+Ядро ОС
+Opencart 2/3
+IngressController Traefik
+AB тесты
+JPA/Hibernate
+Blueprints
+Continuous Integration
+Mac
+1С: Управление Холдингом
+Teamleading
+elixir
+Умение работать в режиме многозадачности
+Jetpack Compose
+Управленческое консультирование
+CEH
+modelica
+ASP.NET
+Kubernetes
+программирование
+Системы электроснабжения
+Работа с доменами
+swift UI
+Jmx
+коммерция
+Системное администрирование ОС Linux
+Интеллектуальный анализ данных
+телефонные продажи
+Qt
+Microsoft Office tools, 1C
+Milvus
+Интернет-реклама
+zerto
+EntityFramework
+SCL
+Анализ убыточности страхового портфеля
+Google Tag Manager
+С++ Builder
+Общественное питание
+AMQP
+Производство рекламных материалов
+Jira, Confluence
+CSS-препроцессор
+Checkpoint
+Аналитические формы
+selenide
+1Wire
+DockerSwarm
+Sanic
+ArcGIS
+Coroutines
+Английский — A2
+Тестирование web UI
+Грамотная речь и письмо
+сопровождение в производстве разрабатываемых изделий
+разработка
+TensorRT
+Prediction Models
+Software architecture
+Solid Works
+Разработка продукта
+IBM ILOG
+Работа с жалобами клиентов
+P&ID
+Самоконтроль
+Critical thinking and problem solving
+Memcached
+СП
+Стремление к профессиональному росту
+Water Injection Pipelines
+Power Point
+Сервис
+.Net core
+Angular 11
+MVI
+Azure API
+TESSA
+Автоматизация
+Unreal Engine 5
+Aidata
+React js
+Sinatra
+Teamlead
+Robin
+Нейросети
+redash
+IBM Lotus Notes
+UA
+Charles
+Торговая площадка
+BSP
+macOS
+Citrix Hypervisor
+Plotly Dash
+Writing Articles
+Антифрод
+DDD
+ClickHouse
+SonarQube
+Storyboards
+Active Directory
+soiidity
+Экономика
+IntraSCADA
+Camera
+Fast Api
+helm
+hybris
+JPA
+Автоматизация документооборота
+Puppet
+Адаптивность
+machine learning
+Merge requests
+Заключение договоров
+YADRO
+Преподавание
+Разработка исполнительной документации
+реляционные СУБД
+NATS
+Siemens NX
+Ядро Linux
+Умение аналитически мыслить
+Интеграционные тесты
+Педагогический дизайн
+Корпоративные ИТ системы
+Навыки продаж
+Nats
+retrofit
+APT
+Java
+база данных
+ЦОС
+MPLS
+ffmpeg
+SAST/DAST
+Яндекс.Вебмастер
+создание отдела с нуля
+Социологические исследования
+Виртуализация
+OWASP TOP 10
+Мотивация сотрудников
+SOX контроль
+верстальщик
+Дизайн
+EJB
+Maple
+AVR Studio
+tilda
+Управление сложными производствами РФ
+одобрение
+MS SSRS
+Корпоративные финансы
+Шаблоны проектирования
+Oracle/PostreSQL
+Prometheus
+Искусственный интеллект
+3D Моделирование
+In-Memory
+Телефония
+Asterisk
+QA Auto
+Docker, Portainer, Ansible
+OIDC
+Регулярные выражения
+Looker Studio
+кластеризация
+Ruby
+Gitflow
+TestRail
+Spring Boot
+Scalable and robust systems
+Анализ инцидентов
+Разработка CMS
+Json
+Cortex-M
+Разработка онлайн-занятий
+Adjust
+DWH
+React Router
+Управление документами и процессами
+Металлообработка
+градостроительство
+Reach
+Access
+Hedge Fund
+*nix
+РНР
+Symantec Antivirus
+WebSoft HCM
+Transact-SQL
+Sqlalchemy
+Bootstrap 5
+SCSS
+ИБП
+Razor Engine
+Промышленные роботы
+WPF
+CMS ModX
+Articulate Storyline
+LLMs/OpenAI
+Customer Journey Map
+Создание архитектуры для высоконагруженных проектов
+Запуск региональных рекламных кампаний
+5G NR
+Investment Banking
+SOC
+Coffeecup HTML Editor
+istio
+Проведение опросов
+Тестирование
+Apache Hive
+Сантехнические работы
+Java8+
+Joomla
+Химические методы анализа
+Project management
+Trino
+UE5
+Kdevelop
+Google Docs
+Офис
+БСП
+RoR
+OKC7
+Usability
+Цифровой маркетинг
+Windows 8
+Информационная безопасность
+Vanilla PHP
+Frontend
+TradingView
+Akka
+Финансовый контроль
+API Gateway
+Визуализация
+автотестирование
+виртуализация HyperV Vmware
+Babel
+Pipe
+a/b-experiments
+Apache
+Bash
+Администрирование информационных систем
+yii2
+Communication skills
+Zod
+search ranking
+web приложения
+Работа с ключевыми клиентами
+Сoroutines
+jmeter
+npm
+SAP S/4HANA
+Web Design
+Управление ИТ
+Knockout.js
+nuxt
+Разработка финансовых моделей
+Ремонт ПК
+Codesys 3.5
+IBM Planning Analytics
+Build root
+большие языковые модели
+Португальский — B2 — Средне-продвинутый
+Google таблицы
+Google Analytics 4
+Постановка экспериментов
+Разработка и внедрение системы адаптации
+Negotiation skills
+Actix_web
+SLAM
+RabbitMQ, Kafka
+RISC-V
+Teamwork and collaboration
+тестирование мобильных приложений
+Работоспособность
+Agile Project Management
+SLO
+Visio
+Проектирование и разработка отказоустойчивых систем
+Talend
+YaCloud
+BI
+Управление цепочкой поставок
+AngelScript
+Frontend-разработчик
+HP Service Guard
+Инфографика
+Suricata
+Коммуникативные навыки
+maven
+Openstack
+проведение операций на валютном денежном рынке
+Phoenix
+системы вентиляции и кондиционирования
+Нейтронное излучение
+Разработка алгоритмов
+Java 8
+pythest
+Арбитраж трафика
+SAN сети
+irp
+webtutor
+Enhanced Interior Gateway Routing Protocol
+Apache superset
+управление разработкой сайтов
+Кроссплатформенная разработка
+Системная аналитика
+ОС Linux
+средства защиты информации
+Zynq
+KAfka,
+Форсайт
+Визуализация данных
+ДБО
+STM32CubeIDE
+PowerCurve
+Vue 3
+PowerShell
+ФСТЭК
+UserGate
+HTML 5
+Анализ защищенности
+LoadRunner
+Node JS (Express)
+AR
+бизнес требования
+ContentAI
+Ajax
+vanilla Hadoop Stack
+front-фреймворк – React JS
+PowerQuery
+Имитационное моделирование
+Управленческий учет
+GlowByte
+ИТ
+Создание конфигурации 1С
+prometheus
+data catalogs
+битрикс программист
+Linux Kernel
+Embedded Android
+Поисковые алгоритмы
+Разработка стратегии продвижения продуктов
+зуп 2.0
+ES6++
+OnPush
+сбор данных
+Frontend developer
+Автотестирование
+REST API / OpenAPI
+Verilog
+порядочность
+Умение общаться с людьми
+Docs as Code
+Kaspersky
+Скрипты
+Настройка VPS/VDS серверов
+User research
+ADO.NET
+AspNet
+OpenVZ
+Управление качеством данных
+● уверенное знание PHP 8.1;
+OpenCV
+Казначейство
+АСУТП
+Электротехника
+Data Structures
+Выравнивание последоватеьностей
+rpm
+LAN
+Работа с большим пулом запросов
+1С:ERP.УХ
+PixiJS
+Прямой поиск
+DataLens
+Cloud
+Высокая нагрузка
+Kali Linux
+1C 8.3
+СУБД Microsoft SQL Server
+Корпоративные сервисы
+PostgreSQL PL/pgSQL
+аналитика
+Понимание предметной области (управление производством, запасами, поставками)
+ABB
+Webtutor
+MS Power Builder
+AppStore и TestFlight
+Интервью на английском языке
+nest.js
+ORM моделей DJANGO
+Zenject
+Python, Java, C++, R, TensorFlow, PyTorch, Keras
+MVN
+Kаfka
+Swift 5.1
+React/Redux
+Линейное программирование
+JUnit
+Camuda BPM
+Составление технологических карт
+Postgre
+Qt Creator
+робототехника
+Контур EDI
+Data-as-a-code
+Слесарные работы
+Химик-разработчик
+DevOPS
+Продвижение бренда
+Astra
+система хранения данных
+Requests
+Oracle Primavera
+Hadoop
+А/Б тесты
+Обеспечивать полноту и качество данных
+Dotnet Core
+теория вероятностей
+AstraLinux
+Разработка сайтов
+Реализация дашбордов
+PBX
+Beam
+BIST
+Qlik View
+пресейл
+Оценка персонала
+Производные финансовые инструменты
+Умение организовать работу
+PL SQL
+Бизнес-планирование
+ArtemisMQ
+Apache Kafka
+ES6
+.NET CORE
+PROMT
+datalens
+SEO аналитика
+Morpeh
+ОС GNU/Linux
+MATLAB
+Бит.Финанс
+SQL, PostgreSQL, REST API, Kafka, WSDL/Swagger, XML/XSD, JSON/JSON-Schema
+Поисковая оптимизация сайтов
+AI
+Тренинги
+TOGAF
+gRpc
+OSGi
+data science
+theia
+Directum RX
+CI CD
+ESP32
+Siddhi
+Windows 7
+Linux SQL AstraLinux Information Security
+gitlab
+CSS-in-JS
+PHP 7,8
+Transact-SQL MS SQL Server HTML MS Visual Studio jQuery JavaScript C# MVC MS SQL XML ASP.NET .NET Fr
+Самокритичность
+Мультимодальные модели
+.NET Framework
+netlist
+.NET 5
+Restful API
+Helpdesk
+microfrontend
+terraform
+Typescript.
+Solidity
+ER-диаграммы
+AWX
+Substance Painter
+Compose
+CI/CD
+classic ML
+Huawei
+People Management
+Signal
+Crystal Reports
+Full stack
+1С: Логистика
+Open source intelligence
+Микросервисная архитектура
+Клиентская логистика
+.NET 8
+No-SQL
+Microservices
+NestJs
+Экономическое моделирование
+Защита информации
+Kanban
+NgXS
+Simulation Modeling
+Postgress
+Risk management
+DPDK
+NgRx
+ADFS
+Core
+Alfresco
+SOAP/REST
+Nginx
+Mapnik
+SaltStack
+CMake
+автотесты
+SAP ERP
+InfluxDB
+основы алгоритмов и структур данных
+HLSL
+Adobe Animate
+ЦАП
+FE (React, Angular, vue)
+Vue.js 3
+Process Mining
+Автоматизация управленческой отчетности
+Google BigQuery
+Тестирование API
+ML OPS
+Си
+OOP/SOLID
+BI-системы
+KPI и OKR
+Станки ЧПУ
+JMS
+ovirt
+Learning ability
+SCALA
+Cl\CD
+Высоконагруженные сисемы
+Phyton
+проектировать API
+Oracle CRM
+.Net
+Borland Delphi
+Разработка ПО
+curl
+Составление контент-плана
+1С: Зарплата и кадры
+реализация проектов на фреймворках
+Product owner
+распознавание запросов
+CCNPsec
+ad-hoc
+Azure Data Factory
+управляемые формы
+ВК
+UDP/TCP
+Интеграционное тестирование
+Знание Яндекс Direct, Google Adwords
+SPA
+SDC
+Geology
+Quasar
+Cloudflare
+Бюджетирование ФОТ
+SPSS
+BPMSoft
+MLFlow
+PMI
+Fluent English
+testit
+BGP
+Cassandra
+Electron
+Docker, OpenShift
+Weintek
+Highload
+Контроль и анализ ценообразования
+AV
+dbt
+RedTeam
+IP сокеты
+Composer
+pcap
+ПреСейл
+Apache Ignite
+Работа с детьми
+Презентабельный внешний вид
+BitBucket
+Mock Service Worker
+team lead
+Visiology
+Zabbix/Prometheus/Grafana/ELK
+XGBoost
+baremetal
+CMS bitrix
+Gulp/Webpack
+Разработка электронных курсов
+UX
+consul
+Технологии производства блюд
+SPM
+D7
+Campaign
+DI
+Механик
+IDM-системы
+BABOK
+LDAP
+redux/toolkit
+SQL, SoupUI
+Pentest
+Mysql/Mariadb
+руководитель проектов
+Safari
+Средства защиты от несанкционированного доступа
+Анализ инвестиционных проектов
+Желание работать и развиваться
+OpenSource
+Vanilajs
+Fabric
+Интернет маркетинг
+Навыки презентации
+Подбор персонала
+этичный хакер
+Shell Scripting
+Работа с партнерами
+Research
+автоматизированное тестирование
+ПО IBM Rational DOORS, ClearCase, ClearQuest, ПО жизненного цикла изделий
+UI/UX
+SAN
+СРК
+Objective-C
+Python 3
+Runtime Events
+pandas
+Fastapi
+Формирование управленческой отчетности
+flexibility in new environment
+Mikrotik
+производство косметики
+Разработка долгосрочной системы мотивации
+Smarty
+Unity
+программное обеспечение
+Маркетплейсы
+Telegram API
+Mobile Marketing
+EdTech
+ESD
+Web API
+Архитектура сетевых решений
+Adobe After Effect
+ЕСТД
+Готовность обучаться
+HiveSQL
+Scientist
+принимать решения и за их результаты отвечать самостоятельно
+HiSilicon
+Rest API
+Дружелюбие
+SCSS (SASS)
+ML модели
+VUE
+Green Plum
+Search ranking
+Блокчейн
+XAML
+MLE
+HCIP
+BE (Laravel, yii, zend, phalcon)
+объектно-ориентированное программирование
+Написание научных статей
+администрирование Linux
+Customer Support
+документирование проекта
+Windows Server 2012
+Branding
+Cocoapods
+Typescript
+Ведение переговоров
+Selenuim
+User space
+Составление планов по подбору
+PLC
+Web debugging proxy
+Актуарные расчеты
+Электронный документооборот
+B2B Marketing
+Английский — C2 — В совершенстве
+Yandex Cloud
+Key Account Management
+Регрессионное тестирование
+MS PowerBI
+Redux Toolkit
+Rxjs
+Металлообрабатывающее оборудование
+VBScript
+Appsflyer
+Mathematical Statistics
+Анализ трафика
+Entity Framework
+STM32
+финансовые рынки
+confluence
+SAP BI
+Quantitative Developer
+Redux
+Аналитическая документация
+Active MQ
+Evolved Packet Core
+Меркурий
+Опыт работы с Docker, Kubernetes, Kafka;
+SSO
+CatBoost
+MODx
+three.js
+Библиотеки Python
+cocos
+ECMAScript
+Moxy
+PyTorch
+Test Driven Development
+системная архитектура
+User Map
+Data Lake
+JavaScript ES6
+Рефакторинг кода
+API интерфейсов
+clock tree
+MQ
+WebAPI
+Информационные системы
+docker-compose
+Liferay
+QAA
+Xsd
+Email маркетинг
+SystemVerilog
+Документирование информационных систем
+ленточные библиотеки
+Parquet
+Alamofire
+UseCase
+Бортовое оборудование
+Rubocop
+Vue/test-utils
+Oracle ldentity Manger
+Applovin
+Reinforcement Learning
+Поддержка внедрения бизнес решений
+Ethernet
+pyrogram
+ЭДО
+Power Query
+R&D
+Telecommunications
+Микроконтроллеры STM 32
+Автоматизация тестирования
+Vulkan
+MS MDS
+Ремонтные работы
+Schneider Electric Modicon
+Patterns
+Iron Python
+ARINC-429
+laravell
+Autotools
+Dell Servers
+Scikit-learn
+JIRA
+nltk
+GUI
+OpenCart
+Проектирование HA/HL систем
+HBASE
+DataTables
+Cortex-A
+Высокая энергичность и инициативность
+Kingfisher
+MS Visio
+Аналитические способности
+SQL/noSQL
+Creatio
+Серверное программирование
+Jest
+Умение договариваться
+Deep Learning
+Docker Compose
+DataHub
+Ориентация на клиента
+Prisma (orm)
+Python CV Computer Vision PyTorch Deep Learning
+АЦП/ЦАП
+nlp
+Аналитические навыки
+Git-flow.
+Scrum/Waterfall
+тестирование интеграций
+Oracle 11G
+Тест-дизайн
+Разработка технических решений
+Three.js
+Application Security
+Химик R&D
+ГлоуБайт
+Полимеры
+преподавание
+ExtReact
+микросервисная архитектура
+адаптивная верстка
+Безопасная разработка
+Quant
+Next.JS
+Яндекс Доставка
+ant-design-vue, vee-validate
+*Nix
+Я.Облако
+Knime
+, MongoDB
+CD
+Разговорный английский
+А/Б-тестирование
+Проектно-конструкторская деятельность
+Бренд-менеджмент
+Внутренняя логистика
+Gamedev
+Электроника
+CourseLab 3.5
+Netty
+FTP
+ispring
+Антивирусная защита сети
+1C: ERP
+Apex
+REACT
+RxJava2
+Траблшутинг Linux
+тестирование бэкенда
+Electronic Document Management Systems
+Английский язык (Upper-Intermediate)
+1C ERP 1С:Предприятия 8.3
+presto
+IIoT
+Angular Material
+Проведение тестирований
+SMD
+remedy
+A/B-тестирование
+Resnet
+Nest
+elasticsearch
+Технический заказчик
+Vue.js 2.6
+Flatbuffers
+Ardupilot
+компьютерная безопасность
+RAC
+Майндбокс
+VS Code
+bitrix developer
+iot
+ISTIO
+Управление интернет-проектами
+miro.com
+Гражданское строительство
+линейка ОС Windows Server до 2016
+Обучение и развитие
+rust
+Google AdWords
+dotnet
+Программинг 1С Bitrix
+Dart
+Внешняя оптимизация сайта
+ГИС
+Business English
+Работа с компьютером
+Аnsible
+Celery
+Yandex Direct
+vueJS
+Средства криптографической защиты информации
+Высокая ответственность
+STL
+PreSale
+1C: Зарплата и кадры
+коммуникативность
+PIM
+интеграционное тестирование
+FANUC
+Agile
+Высокая скорость работы
+Проведение мероприятий
+TIBCO
+LMDB
+SQL запросы
+Английский — B1 — Средний
+Анализ продаж
+Администратор
+Rspec
+OAuth2/OpenID
+Составление смет
+Intermediate
+Spark Framework
+Veeam B&R
+GFS2
+ktor
+ECOMM
+Немецкий — A1 — Начальный
+Codeception
+Veeam
+Big Query
+Pug
+ClickeHouse
+Ubuntu
+ИИ
+GCD
+разработка программного обеспечения
+autotest
+Немецкий — B1 — Средний
+AsyncRequest
+Yandex.Cloud
+Русский — C2 — В совершенстве
+POSIX
+NCE-T
+Написание ТЗ
+Retrofit
+Настройка сетевых подключений
+Работа с кадровыми агентствами
+Glarus BI
+Генеральный подряд
+Petalinux
+Рекрутмент
+DALL-E 3
+MUI
+iOS 13 Human Interface Guidelines.
+DHW
+Behave
+Jetbrains Phpstorm
+Vertica
+Marshmallow
+Yolo
+React v17
+LTE/5G
+Strategy consulting
+html/css/js
+Управление затратами
+Выездное обслуживание
+FirebirdSQL
+Hive
+Прототипирование
+HR
+написание аналитических текстов
+преподавание информатики
+.NET Сore
+Ansible
+СХД
+Analysis
+ТЗ
+Debian
+CFengine
+Навыки программирования
+Paid Social
+IBM DataStage
+Service Mesh
+Анализ доходности
+a/b
+Заказная разработка
+Bugzilla
+SQL-inj
+Математический анализ
+Корпоративная культура
+Эконометрика
+Монтаж оборудования
+Speech
+тестирование web
+Swagger
+Навыки работы в Linux
+DataVault
+Laravel
+Manual testing
+проведение тренингов
+Автоматизация бизнес-процессов
+Внутренние коммуникации
+Algorithmic Trading
+Zabbix
+Производственное планирование
+Machine learning
+Sass
+А/В-тестирование
+M&A
+1С УПП
+последняя миля
+longhorn
+Фотополимеры
+Elixir
+МЭК 61499
+IBM
+Bootstrap4
+Gitlab/Jenkins
+ip-телефония
+T-SQL
+content design
+desktop
+Маркетинговые стратегии
+Зенит
+NAS
+Факторный анализ
+Дороги
+Регрессионный анализ
+Tensorflow
+JWT. XUnit
+JSON
+Архитектура БД
+LTV prediction
+Socket.io
+Проектирование БД
+РЭО
+FLINK
+Умение легко находить контакт с людьми
+Codeigniter
+Vue
+Проектирование плат
+Знание основных нейросетевых архитектур
+PHP-Laravel
+OpenRPA
+Веб-анимация
+Проведение переговоров
+Планирование обучения
+градостроительная документация
+технологические карты
+Nuxt
+РКО
+ArgoCD
+Debezium
+common image management
+Smartsheet
+Fore
+unreal engine
+Интеграция Bitrix24
+Работа с оргтехникой
+surveyjs
+DocsVision
+Rabbit MQ
+ПЛК WAGO
+витрины данных
+CMS
+DHCP
+Postman / Swagger
+Рассылка сообщений
+Desktop
+sap identity provider
+Поиск информации в интернет
+Многомодульные системы
+Гибка
+PyUnit
+Cognos Enterprise Planning
+tkinter
+VueJS 3
+SAS DIS
+CusDev
+Тайм-менеджмент
+AppsFlyer
+Анализ бизнес показателей
+СУБД, SQL
+InDesign
+IaC
+Solar
+СКАДа Wonderware InTouch
+Modx
+Siebel Integration
+Таск-менеджмент
+трафик менеджер
+Trailblazer
+PHP 7
+Проведение опросов клиентов
+asp.net core
+Управление данными
+MariaDB
+ISA-95
+Разработка готовой продукции
+Пуско-наладочные работы
+Составление предложений о работе
+Quantative Trading
+Знание химии!!!
+WEB
+МЭК 61131-3
+Bush
+Wifi networks
+agile
+ActiveAdmin
+Flex/Grid
+виртуализация
+Axon DG
+ClearML
+VHDL
+Visual Studio
+Тестирование интеграции
+Разработка и внедрение политик и процедур
+Моделирование бизнес процессов
+ClickUp
+PostgresSQL
+E2E
+Разработка технических заданий
+Github
+Работа с большим объемом информации
+Ad hoc аналитика
+MDX
+Анализ приложений white- grey- black-box
+Lottie
+CV алгоритмы
+Asyncio
+SeQ
+RestAPI
+.Net 6
+CCIE Enterprise
+mui
+DAMA
+Honeywell
+Программирование микроконтроллеров
+UIAutomator
+Sonic Cloud
+playwright
+5G NTN
+UNIT
+RESTful Api
+csi
+Neural nets
+Тестирование Web приложений
+desktop приложение
+English
+WebApi
+Siebel Marketing
+Разработка технической документации
+продукт
+джуниор
+Квант
+БИТ.Финанс: Управленческий учет
+mediatek
+Обязательная и пруденциальная отчетность
+Consul
+Самообразование
+vanila js
+API Integration
+HAProxy
+Pyton
+Аналитик, ТЗ, ФТ, бизнес-требования, бизнес-процессы, банк, SQL
+Doker
+Data Science
+ERP
+Leo
+oauth 2.0
+расчет уставок РЗА
+Мозг
+Высокий уровень самоорганизации
+TranzWare
+Vitest (знания Jest будет достаточно)
+SketchUp
+PIM-системы
+DB
+разработка web приложений
+NiFi
+Tradematic Trader
+CJP
+Fortinet
+Kotlin
+Нагрузочное тестирование
+room
+healthcheck
+Fast api
+Решение проблем
+5G
+Java Script
+evm
+D-Link
+работа с текущей базой клиентов
+Dapper
+Обучение пользователей
+Желание постоянно развиваться
+D3.js
+CAD / CAM системы
+SQL-субд
+Математика
+Seaborn
+Mavlink
+Нейминг
+PEST
+Прогнозирование спроса
+Формирование технического задания для разработки
+СДО
+Ansible,
+Luxmus BI
+CQRS
+Гостиничные системы
+ОГЭ
+БУС
+PowerBI
+Самостоятельность, ответственность за результат, соблюдение сроков и системный подход к выполнению з
+tailwind
+.net
+Работа в условиях многозадачности
+Concurrency Java
+Высокий уровень владения C#
+Ya.Metrics
+корпоративные антивирусы
+SVG
+DR
+EDA
+Telegram
+Digital Marketing
+Event Management
+Приемочное тестирование
+PHP/Laravel
+valgrind
+google search console
+Бизнес анализ
+CI
+Browser
+1С программирование
+Техническая экспертиза
+Kuberflow
+CDC
+Query Builder
+многозадачность
+React Testing Library
+Russian - C1
+WildFly
+grafana
+angular 6
+Edtech
+grok
+Rals5
+etc
+Пожарная безопасность
+Навыки переговоров
+STP
+Feature Store
+signal processing
+Ориентация на результат
+Screaming Frog Log Analyzer
+Netpeak Checker
+Angular TypeScript
+Oracle Exadata
+ОС Windows, Linux
+Design Patterns
+Computer troubleshooting
+Маркетинговая стратегия
+Web
+NodeJS
+SuperSet
+Serverless Architecture
+ЕСПД
+Горящие глаза
+организация хранилищ
+MS Office
+DeltaLake
+AutoLayout
+C# Xamarin
+База данных: Olap
+СЗИ
+AD, DNS, DHCP, NTP
+aioHttp
+Опыт работы с SVN, GIT, confluence, redmine
+Маркетинг услуг
+typeorm
+JsonRPC
+IPTables
+Разработка технического проекта
+Obsidian
+Сетевое оборудование
+Гамма-излучение
+Консультирование клиентов
+JMeter
+PPT
+Mssql
+Hazelcast
+DDS
+PHP 8.2
+Дашборды
+Gravitee
+Apache Cassandra
+DRY
+CTRM
+Flex
+Проектирование пользовательских интерфейсов
+CNC
+Реляционные/nosql бд
+devops
+Mockito
+CDP
+1С БСП
+x86
+Signals
+Написание статей
+AQA
+Xcode
+Консультант плюс
+кредитные карты
+Apache Wicket
+Эффективность
+Cats Effect
+aiogram
+Диагностика
+web-API
+Oracle Siebel CRM
+Blender 3D
+ISO 8583-1987, EMV
+Unit-тесты
+Kernel
+Juniper
+PosgreSQL
+хабр
+Quantitative analyst
+simscape
+jupyter
+Design
+сопровождение систем информационной безопасности
+COBIT
+AppSync
+Аудиторские проверки
+fastapi
+RHEL
+Vertika
+Прогнозирование
+Kafka/RabbitMQ
+XUnit
+Quasar (vue.js)
+SASS/SCSS
+Аналитика
+superset
+ОПП
+GrayLog
+UA-компании
+Game Programming
+Управленческая отчетность
+Анализ рисков
+B2C
+Разработка программ по улучшению условий труда
+Docker / Kubernetes
+Leaflet
+Algotrading
+GCP
+Financial data
+Функциональное тестирование
+Spring Cloud Netflix
+LEGO
+Управление требованиями
+Фрезерование
+Nuxt.JS
+языки программирования
+Machine Learning
+Желание расти и развиваться
+Финансовый мониторинг
+nvm
+bs4
+Web-серверы
+Асинхронное программирование
+WSUS
+Crypto
+Актуарные расчёты
+Копирайтинг
+Python, GO, Bash, Rego
+Подготовка ТКП
+freertos
+OpenWay Way4
+low code
+RPA
+Apache AirFlow
+Педагогика
+kanban
+гидравлика
+Oracle Reports
+Публичные выступления
+java developer
+Ef Core
+ES5+
+Dashboard BI
+Profinet
+Развитие персонала
+pentes
+Lenovo
+ГОСТы
+Самодисциплина
+gRPC
+react native
+RTK Query
+Financial Analysis
+CMS (1C-Битрикс, WordPress, Drupal)
+Обновление конфигурации 1С
+RestAssured
+mssql
+Оценка эффективности промо акций
+Socket
+Networking
+u-boot
+Developer Express
+Анализ журналов в Kibana
+Embedded
+Хантфлоу
+Fastlane
+Административная поддержка руководителя
+VPN
+Выраженное желание работать в нашей компании
+качественные исследования
+Инженерные системы
+HTTPS
+Luxms
+Хранение данных
+Документирование бизнес-требований
+strawberry
+openpyxl
+Машинное зрение
+работа с банками
+REST API.
+BCL
+Plant Cruise
+Ngnix
+CorelDRAW
+Apache kafka
+PRA
+Аудит HR бренда
+Адаптивный интерфейс
+телеизмерения
+1C: Бухгалтерия
+Филогенетический анализ
+дизайн-ревью
+YC
+Retrofit 2
+Стремление к профессиональному развитию
+Mail Security
+WinCC
+*nix системы
+Табличная верстка
+RS-Bank
+OOA
+OLTP
+cocoscreator
+синтаксические деревья
+DataLake
+MsSQL
+cron
+CV
+ит
+Redos
+Terrasoft CRM
+Calypso
+vCenter
+FMCG
+арбитраж трафика
+Опыт работы с клиентами
+ApacheAirflow
+Вконтакте
+SAP HR
+CRM ELMA 365
+Физика
+SOAP UI
+LabVIEW
+lldb
+Консолидация
+Test Plans
+Желание работать и зарабатывать
+Vite
+ВПР
+Terraform
+Computer Vision
+Vuex
+Администрирование серверов Linux
+создание новых приложений
+Snowplow
+Kotlin Coroutines
+PostrgeSQL
+SolusVM
+PowerBuilder
+OpenWRT
+алертинг
+Bug Bounty
+CMD
+Генеративный Дизайн
+Application security
+MS SharePoint
+Dotnet
+Разрывная машина
+PrimeNG
+User Flow
+Радиолокация
+Internet
+3D-печать
+Jenkins
+CSS3
+material design
+Управление продажами в отелях
+B2B Продажи
+разработка новых кондитерских изделий
+I2C
+IFRS
+Русский — B2 — Средне-продвинутый
+Информационные технологии
+С4 model
+WebStorm
+Check-list
+Lemp
+OneSignal
+Dockerfile
+CCNA
+Django CMS
+JupyterHub
+Version Control
+Local IP access networks
+Bitbucket
+Высоконагруженные системы
+Разработка компьютерных Игр
+Veritas Cluster
+Умение слушать
+Web tutor
+EF
+Kafka
+Цифровые каналы
+ETL/ELT
+Http Proxy
+Разработка и внедрение системы KPI
+PostgreSQ
+Среда общих данных
+harbor
+Проведение презентаций
+WebLogic
+GitLab
+AD (LDAP)
+Cinema 4D
+LiveData
+Алгоритмы обучения
+awk
+Интеграция информационных систем
+IndorCAD
+баг-трекинг
+Администрирование СУБД
+KOTLIN
+Flutter (Dart)
+SSH
+IDEF
+UDP
+EVM
+Material UI
+SSR
+Vulnhub
+react hooks
+мониторинг
+HTTP-запросы
+торговые терминалы
+Optimacros
+Умение адаптироваться
+Маркетинговое планирование
+.NET Core 3-5
+SQL Server Analysis Services
+WebView
+Testflight
+GitlabCI
+1С: Бухгалтерия предприятия
+Hotwire
+Django REST framework
+DevOps-процессы
+TFS
+Task Control
+1С: Розница
+HTML5+SCSS
+Активность
+selfhealing
+Tailwind
+SON-RPC
+ATE
+Анализ текущих финансовых показателей
+Функциональные требования
+kubernetess
+Метаданные
+Groove
+Опыт работы с REST api, OAuth авторизациями
+Lua
+data platform
+Business Development
+Расчет премий и бонусов
+Artifactory/Nexus
+удаленка
+Sketch
+sre
+Системное администрирование
+Логистический менеджмент
+DNS
+NPU
+предпроектное обследование
+OWASP Top-10
+Istio
+CI/CDL/CDP
+Scrapy
+TypeScript 5+
+Конвертация данных
+Hbase
+Gigadevice
+Avalonia
+Лабораторная работа
+Slim Framework
+Communigate Pro
+HDFS
+Терминалы Сбора Данных
+Presale
+Делопроизводство
+Системность
+Холодный поиск
+Adobe Premier Pro
+Фрезеровка
+БКИ
+NPV
+Стратегические инвестиции
+португальский язык
+Вайлдберрис
+CAE
+Apache Spark
+Внутренние сервисы
+Составление технических заданий
+Axios (Ferch)
+CI/СD
+Умение находить общий язык
+core
+Клиент-серверная архитектура
+sh
+сетевое оборудование
+Illustration
+Обучение детей
+Программирование МК
+Oracle Global Support
+Желание учиться новому
+Java EE
+computer vision
+web API
+Web3
+embedded
+Asset management
+Concourse
+Sales Management
+SVN, git
+fronted архитектура
+Разработка приложений
+Pervasive SQL
+кхд
+Трейдинг
+WS
+BackEnd автотесты
+Желание обучаться
+Экономический анализ
+KES
+Latex
+WebFlux
+ANGULAR
+Сбор данных
+CustDev
+WebPack
+Ant Design
+Корпоративные продажи
+Оптимизация запросов
+Позиционирование бренда
+Django Rest Framework
+Immutable
+Xano
+Системы видеонаблюдения
+Charles Proxy
+zio
+осциллограф
+Couchbase
+1С: Бухгалтерия
+GA
+Системная интеграция
+TestIT
+Google play
+CMS Bitrix
+Ионизирующее излучение
+Сводные таблицы
+ABC-анализ
+Sdlc
+кредитные риски
+Beautifulsoup4
+TMS
+Kafka Streams
+React 18+
+Rockwell
+Tim Lead
+Библиотеки: Statsmodels CatBoost GLM
+Django Framework
+typescript
+JavaFX
+UDP/IP, TCP/IP
+Signal. REST
+Course Editor
+Smoke test
+СКД
+i18n
+iOS SDK
+разработка HLD/LLD
+IT
+OpenShift
+Верстка сайтов
+Pixel Perfect
+Сборка ПК
+Документооборот
+SIEm
+нормативно-техническая документация
+Hyper-V
+symfony4/5
+Работа с контекстными площадками
+Impala
+нефтегазовый сектор
+Swift UI
+ELMA365
+TPC-H
+Консалтинг
+X-Ray Search
+hadoop
+Oneldentity Manager
+Lumen
+Smart TV
+Структуры данных и алгоритмы
+Kubernetes(Openshift)
+Адаптация
+Enterprise
+Discord
+detectron2
+базовая статистика
+Составление технической документации
+E-Commerce
+sentry
+Знание 1С
+Aiogram
+Оценка инвестиционных проектов
+Boolean search
+SDL2
+BeautifulSo
+SLA
+OS Android
+Роботизация
+cms bitrix
+Модели
+Управленческие навыки
+Java 17+
+make/CMake
+модель OSI
+Code review
+VMware
+тестировщик
+SSIS
+Fortran
+Spring Data
+Nuxt.js
+GitLab (GitHub)
+Управление процессами
+Проектирование API
+Splunk
+Koa
+Организация промо акций
+Умение работать в команде
+Регресионное тестирование
+проведение интервью
+Packer
+Дизайн интерфейсов
+Газоаналитическое оборудование
+Семантика Html
+FullStack
+TSQL
+Bootstrap
+GitLab, Jenkins, Harbor
+Компетенционное интервью
+внедрение ПО
+Выполнение поставленных задач
+Управляющая Компания
+Rider
+Облако точек
+Анализ требований
+doker
+Испанский — A2 — Элементарный
+Социальные сети
+Office
+Деловая этика
+GRPC
+технический английский
+Bloomreach
+ЭЦП
+Appium
+Адаптация персонала
+веб-приложения
+Firefox
+Наружные инженерные сети
+Продуктовое мышление
+Закупки
+HyperV
+BI системы
+#RL #Python #reinforcement learning
+ANTLR
+Css Modules
+Тарифные модели
+входящие звонки
+Docker
+ElasticSearch
+WAGO
+GAN
+алгоритмы
+PostCSS
+Хорошие организаторские способности
+SUSE Linux
+MSVS
+1С: Управление Торговлей
+C/C++
+Angular, .Net Framework
+torchaudio
+Исследовательское тестирование
+Think-cell
+Поисковые системы
+БЭМ
+AMR
+iohttp
+Веб-аналитика
+PostCss;
+Линейная алгебра
+Python
+Link2db
+Modbus
+opencv
+OpenLDAP
+Scilab
+НПФ
+СУИБ
+Ner
+AirFlow
+Golang
+Reactor
+NLP
+UI-Kit
+Реализация проектов
+Маркетинговые исследования
+Разработка ТКП
+AutoQA
+LoRA
+Микросервисы
+разработчик битрикс
+Flutter
+Видеомонтаж
+Яндекс метрика
+печатная техника
+Обработка данных
+ЗУП
+РЗА
+OpenCL
+DL
+Microstrategy
+Product Development
+web
+Sinor
+SCADA Softwares​​​​​​​
+Управление продажами
+Моделирование
+KSVLA
+rxjs
+BI отчетность
+HTML5, CSS3, SCSS
+collections
+DOTween
+Reporting
+cgroups, capabilities, SELinux, AppArmor
+SSG
+Композиционные материалы
+Business Planning
+REST Assured
+Adobe Captivate
+BFF
+vMix
+Management
+Google Cloud
+Profibus
+Firmware
+СМаке
+Stata
+Hanami
+dapr
+Желание учиться
+clickhouse
+BMC
+QlikView
+Сквозная аналитика
+NumPy
+Планирование производства
+SQRS
+PHP 8+
+SSTI
+Spring WebFlux
+PostreSQL
+hive
+Продвижение в социальных сетях
+Air Tranportation
+IoT
+Ремонт
+Goggle Docs
+Графический дизайн
+MinIO
+REST API
+DMBOK DAMA
+BigData
+RTP/RTCP
+Android Jetpack
+xECM
+Data steward
+Стратегическое мышление
+Vue Query (желательно знать что это и для чего нужно)
+.Net Core
+Polymatica
+Тютор
+Rx
+Сантехника
+RESTful
+PVS Studio
+Prompt
+KATA
+Испанский — B2 — Средне-продвинутый
+RxJs
+Team Lead
+MS SQL, MS Office, MS Power Query, Python, MS Power BI
+FinTech
+Эмоциональная устойчивость
+Event-driven
+Dremio
+Внимательность, ответственность, коммуникабельность, умение грамотно излагать мысли
+Монтаж инженерных систем
+Умение принимать решения
+Social Media Marketing
+Artemis MQ
+Goovy
+Хорошее знание SQL
+Мультимедийные проекты
+Формирование roadmap продукта
+DDR
+Количественный анализ
+SAP APO
+Gulp, Webpack.
+REST API / websockets
+rxJS
+JTAG
+1С: Бухгалтерия и склад
+SAST
+neural nets
+Терпеливость
+ZOOM
+AXI-Lite
+FAST API
+Spring, SpringBoot
+3D-графика
+Selenium
+IEC 61850
+Навыки блочного ремонта, обслуживания ПК и периферийного оборудования
+Турецкий — A2 — Элементарный
+СНиП
+SSRS
+Аналитика данных
+Взаимодействие с заказчиком
+make/cmake
+Yandex.Metrica
+Elastic Search
+Github Actions
+Postgis
+нестандартные конфигурации
+Lucene
+EventDriven
+JS ES6+
+Foxboro
+Работа с авариями
+ЛИС
+Android NDK
+NUnit
+Асинхронный Python
+nifi
+Nextjs
+Стратегический маркетинг
+Linux Ubuntu
+GrafanaOnCall
+K8s
+Автоматизация кейсов
+Nlp
+fullstack
+Wordpress
+Электронная коммерция
+web-разработка
+Опыт работы со Spring (Core, Boot, MVC, Security, JDBC, JPA, Cloud);
+FluentValidation
+CommuniGate
+Autodesk Inventor
+Account Management
+Apache Maven
+Контроль исполнения решений
+Бизнес-анализ
+protobuf
+Продуктовый дизайн
+Git (GitHub)
+Vanilla JS
+Junit 5
+Pytest
+Professionalism and strong work ethic
+Mobile
+TDC3000
+Azure Serverless architectures
+React Ecosystem
+MaterialUI (MUI) v4
+MOEX
+конкурентный анализ
+Lambda
+ServiceBus
+АЦП
+Julia
+Ядерная физика
+1C: Предприятие
+формирование бэклога
+Алгоритмический трейдинг
+goland
+Embedded Linux
+BDD
+S-Info
+ElasticSearch7
+ОС для МК
+Работа с лабораторным оборудованием
+Английский — A2 — Элементарный
+S3 MinIO
+GitLab CI/CD
+manual
+User Story
+ELMA 365
+Standby/Failover
+Ведение отчетности
+Plan-R
+Gurobi
+Sast
+Автоматизация производства
+Miro
+1C ERP
+ViewBinding
+CSS
+ASP .Net Core
+Abi
+Управление временем
+ElasticSearch, Logstash, Kibana, Grafana
+ORM
+Active mind
+1C: Документооборот
+BIM
+RSL
+Redux-Saga
+CJM
+HADOOP
+Master Data Management
+Poligon
+Криптотрейдинг
+ASP.NET Core
+FlexiCapture
+laC
+Знание английского языка
+NCL
+NuxtJS (Vue)
+Гарантийное обслуживание
+Создание расчетных калькуляторов
+BEM
+Visual Studio C#
+AppSec
+Наставничество
+websocket
+Qemu
+Tableu
+C++17
+Знание Linux
+Разработка документации
+Proxmox
+haproxy
+Прикладная математика
+Reverse
+SQLAlchemy 2
+Битрикс 24
+Architecture
+SMASH
+Разработка курсов
+TestCafe
+разработка новой продукции
+Гибкость
+Spark Structured Streaming
+Haproxy
+SWOT анализ
+сетевые технологии
+Net Core
+распознавание речи
+CentOS
+testing-library
+AMD
+FFmpeg
+Bootstrap 5.x
+NGFW, VPN, WAF, IDS/IPS, DLP, SIEM, Mail Security, Web Security, NAC, Endpoint Protection, Anti-APT,
+code review
+pyOpenRPA
+C#.NET
+cmake
+Product Marketing
+MS SQL Integration Services (SSIS)
+react.js
+Cesium
+Сопоставление новых продуктов к эталонной базе продуктов по ИС
+Анализ макроэкономической среды
+GTK
+MS Excel
+JavaFx
+Data Center
+C++ STD
+Spyglass
+Tryton
+проектирование интерфейсов
+Jenkins/Teamcity
+Articulate
+ОС Linux (Debian/Ubuntu)
+ОС Linuх
+разметка событий
+Управление рисками
+Верстка
+DataLayer
+WebRTC
+Финансовое моделирование
+Express
+ЕСКД, ЕСПД, ЕСТД, ГСС, ГОСТ РВ
+топологическая оптимизация
+Spark streaming
+База данных: Oracle
+АСДУ
+VBStudio
+GCP (Good Clinical Practice)
+CУБД
+performance marketing
+HFT
+Rust
+GitLab CI
+express
+junior программист
+FSD
+Беспилотные автомобили
+Ispring Suite
+Pyramid
+nUnit
+автотиз
+AsyncIO
+Пусконаладочные работы
+ODI
+Luxms BI
+ORACLE
+MS Project Expert
+Перфекционизм
+PHP 7/8
+Хороший вкус
+Zookeeper
+Check Point
+Сервисная архитектура
+Dagster
+T-Flex
+SIMATIC
+KVM
+Adapty
+Foundation
+Настройка ПК
+Рыночные риски
+Схемотехника электронного оборудования
+Tableau
+Kibana
+e2e
+GraphQL и Apollo
+QT6
+SWIFT Alliance
+Excel, Python, SQL, Power BI
+Органическая химия
+Depo
+Администрирование CRM
+CODESYS
+RxJava
+Анализ сетевых протоколов
+ЛКМ
+Use Case
+PySpark
+Привлечение новых клиентов
+Контроль качества
+AmberData
+powermill
+.net core
+graphql
+seq
+Работа со СМИ
+REST-API
+автоматизация тестирования
+Бит.Строительство
+DBus
+kafka
+1C: Управление торговлей
+Gitlab-CI
+Solr
+ТАУ
+GDI
+Высокий уровень дисциплины
+Google Maps Api
+ECMAScript 6
+рефакторинга кода
+развитие системы
+Сопровождение договоров подряда
+Градостроительная деятельность
+Fintech
+интеграция 1С
+Администрирование PostgreSQL SQL
+b2b
+Beta-тестирования
+Principle
+MS Exchange
+Astra Linux
+OSINT
+Arenadata DB
+Pl/Python
+МСФО
+1C:ERP
+Битрикс24
+SDS Ceph
+Структурирование информации
+Data Mining
+машинное обучение
+Оптимизация логистических процессов
+Camunda
+Robot operating system
+Telegram Bots
+CDP Loymax
+Управление эффективностью
+Windows Forms
+JavaScript JS vue vue.js vuex CSS Sass LMS Learning management system EdTech Управление командой Упр
+JustAI
+Develop and execute the technical strategy to ensure the scalability, reliability, and security of o
+airbyte
+Bubble
+Сетевая инфраструктура
+cython
+React Native
+декомпозиция задач
+Мобильное тестирование
+Product Management
+Redmine
+Tailwind CSS
+Первичные документы
+ОС *nix, анализ защищенности *nix-инфраструктуры
+функциональное зонирование
+Управление разработкой
+typeScript
+Организационные навыки
+работа с большими объёмами данных
+Hashicorp Vault
+Spring Cloud Data Flow
+sequelize
+Robolectric
+AB тестирование
+NATS.io
+Внедрение систем информационной безопасности
+QlikSense
+R/Python
+play integrity
+DQ
+XML
+MS Outlook
+SQL Server
+Формирование продуктовых метрик
+Ethers.js
+Quasar Framework based on VUE.JS
+понимание Kill chain
+Boolean Search
+L2
+MS Power BI
+CoreData
+Обеспечение антивирусной защиты
+DevOps\Linux
+PHP8
+Структура и презентация цифр
+Kubernetis
+Windows 10
+frontend
+WebFroms
+Specifications
+Kubernеtes
+amoCRM
+Dimensions
+Образованность
+ELK Stack
+Международные поисковые системы
+пентестер
+Сорсинг
+Кредиторская задолженность
+Электронное обучение
+работа со статистикой
+KeyDB
+AlpineJS
+нейросети
+ERP и учётные системы
+Внешний аудит контекстной рекламы
+WAS
+конструирование
+Unity Developer
+Архитектура решений
+Realm
+PHP7+
+React Navigation
+Outsourcing
+Договорная работа
+Git/BitBucke
+Playwright
+Аванкор ДУ
+Подготовка отчетов
+Development
+АБС
+Social media
+Chekpoint
+PgAdmin
+Das U-Boot
+eSIM
+Закупка рекламных материалов
+XDR
+MS Windows
+YOLO
+Статистическая отчетность
+aws
+P&L
+Скорость
+Chromium Embedded Framework
+Таргетинг
+Matplotlib
+Мотивация персонала
+Широкий кругозор
+PG
+SDWebImage
+Draw.io
+Go
+GRPc
+Отладка
+redux
+Маркетинговые коммуникации
+инжиниринг данных
+Программист C++
+Высшее образование
+MVP
+Проектирование
+● развивать OMS - основную бизнес - систему;
+Программирование для детей
+LoRaWAN
+PHP 7+
+css modules
+Дизайн сайта
+Vert.x
+Grid
+Embedded systems
+Manticore Search
+Node
+Airbyte
+High-Load
+openapi
+CEPH
+Unreal Engine
+UX/UI
+.NET 7
+Бизнес-моделирование
+Аналитика БД
+написание кода в 1С
+С/С++
+Unix (CentOS)
+Quantitative Trader
+PHD
+Helm
+1C:МДМ
+erWin
+Внешний аудит
+MSSQl
+Minecraft
+Написание обработок
+OpenGL
+Деловая переписка
+API документация
+OCR
+1С 8.3
+Умение работать в условиях многозадачности
+Vue, Typescript
+Управление производственными процессами
+React-hook-form
+Хранение и обработка данных
+Усидчивость
+СнК
+BGA
+CLR
+TPC-DS
+Организация федеральных трейд-маркетинговых кампаний
+Assembler
+Программирование, написание кодов
+tester
+Developer
+DC/DC
+tableau
+анализ баз данных
+MS Visual Studio
+Составление ТЗ
+Английский – чтение тех. документации
+Составление отчетности
+SaleBot
+1С: Предприятие 8
+GD
+SSL
+Oracle BI
+HLS
+A/B тесты
+Ngrx
+Google API
+количественные исследования
+IEC 60870
+Spring Framework
+проведение переговоров с первыми лицами компании
+JavaScript
+Kaspersky security centre
+mtls
+Yii
+ASP.NET MVC
+Pinia
+Скриптовые языки программирования
+Yii2
+ts
+Customer Needs Analysis
+PL/pgSQL
+postman
+ALD
+SWIFT
+оптимизация
+k8s кластер
+Продажи через интернет
+SIL-review
+Performance API
+ExploitDB
+Индивидуальные уроки
+Реляционные БД
+Git Actions
+OCFS2
+Excel
+RU Backup
+xUnit
+Algorithms
+Future Store
+Управление производственным персоналом
+СУУТП
+Websoft
+Ubuntu Server
+ELK
+Управление отношениями с клиентами
+Idea
+Vue.JS
+deserialization of untrusted data
+Технический контроль производства
+Планирование рекламных кампаний
+IEK 61131-3
+Storage
+REST
+Trello
+Autodesk Certified Professional
+Canvas
+Маршрутизация статическая
+ERD
+Houdini
+Инструменты визуализации
+airflow
+XSLT
+HP
+Ведение мобильных рекламных кампаний
+Informatica PowerCenter
+Управление знаниями
+Google Data Studio
+С++17
+go
+ELMA
+Cisco
+ГОСТ
+NER
+ERP и учетные системы
+.NET6
+Собеседование
+Quik
+SVN
+SDS
+корпоративное хранилище данных
+Meta-Framework
+Управление производством
+Организация выставок
+Интеграция
+IBP
+SDLC
+Linux Kernel API
+Data Engineer
+DFT
+FreeRTOS
+SaaS-сервис
+ST
+Кибербезопасность
+Продвинутый пользователь MS Excel
+Теория вероятностей
+DirectX
+Nuke
+HBase
+Hadoop stack
+OpenAPI / Swagger
+DevSecOps engineer
+продуктовая аналитика
+брест
+React.js
+Aqua Security, Trivy, Clair, Prisma Cloud, Sysdig, SUSE Rancher/NeuVector
+SAP Business One
+Tailwind css
+Pentest365
+traefik
+UEBA
+Underscore
+UNIT тесты
+e2e тесты
+Руководство командой
+Internet Marketing
+Отчетность
+QA
+k3s
+Python 3.x
+Gnome
+Restfull API
+ВЭД
+VueJS 2.6/3+
+Event Bridge
+GeoSpark
+Apache tomcat, Oracle Weblogic, IBM WebSphere
+MS Power query
+Safety Manager
+Тестирование пользовательского интерфейса
+Mobilenet
+Grape
+КИС
+Unit-экономика
+Yandex Data Lens
+VueX/Pinia
+QA auto
+Memcache
+Confluence
+ETL / Self service ETL
+Data Validation
+Big Data
+RDBMS databases
+Use Case Analysis
+Team management
+Echo
+ITSM
+Sailfish OS
+POSTMAN
+Apache jMeter
+MassTransit
+Программист промышленных контроллеров
+Leadership
+L3
+Настройка таргетированной рекламы
+XPath
+SWT
+С++ (Windows, Linux)
+Reactive Streams
+Apache HTTP Server
+LСD
+Kafka.
+S-SDLC
+Intellij IDEA
+Oracle Golden Gate
+Qlick Sense
+Бухгалтерская отчетность
+многопоточное программирование
+etherium
+Обучение
+дружелюбие
+OSIsoft
+IPC
+ISO 9001:2008
+XML/Xslt
+Умение вести деловую переписку
+Google Analytics
+Технология производства
+ngnix
+Saiga-2
+YouTrack
+Наладчик
+Netezza
+GraphQL
+SOD
+jasper
+fastText
+Vagrant
+EFK
+Должностные инструкции
+Знание языка C/C++
+Bug Tracking Systems
+сервисное обслуживание
+Партнерский маркетинг
+WildFly/Nginx
+MODBUS RTU
+Pixel-perfect
+React
+TCP
+хранилище данных
+Mac Os X Server
+Java 11
+MSFT PowerBI
+CUBA Platform
+Net 4/0+
+Сборка геномов
+developer
+Управление бюджетом
+System Verilog
+RxJS
+Мультиметр
+DE Архитектор
+Power BI Reports
+1С:БГУ
+Организация рабочего процесса
+Анимация
+Shopify
+Налоговая отчетность
+MPP
+SDET
+lodash
+Flask Dash
+Revel
+Java 11+/Kotlin
+Администрирование
+xsd/wsdl
+Разработка регламентов
+no hesitation to try something new and proactivity
+Responsive Design
+SaaS
+Нетиповое обновление 1С
+High-Availability
+DAP
+Security Vision
+psr
+gdb
+Production
+Технические средства информационной защиты
+Способность к обучению и восприятию информации
+ParrotOS
+Телефонные переговоры, прием и обработка заказов
+Проектирование баз данных
+Системы хранения данных
+ML-модель
+Solid
+Business Glossary
+Дружелюбность
+webpack
+Data Analysis
+ERP-системы на базе 1С
+Постановка задач разработчикам
+ESB
+CloudFront
+Внутренняя оптимизация сайта
+Monorepo
+Offensive
+Data Quality
+iOS 15+
+pip
+k8
+преподавание математики
+Use cases
+1C:Fresh
+Devops
+разработка электронных курсов
+Гражданское право
+Деловая коммуникация
+Yandex
+GitAction
+UniTask
+ROI/ROMI
+3GPP
+Glide
+ASPEED
+React native
+network-on-chip
+QUIK
+vue.js
+Data science
+Xmind
+Fidesys
+OLAP-модели
+QEMU
+code-review
+Wildfly
+IDEFx
+Тестирование web
+Atlassian
+1С:УХ
+ML
+Отличное знание Go
+Solid Edge
+Figma
+Boost.Asio
+ПНАЭ
+Microsoft Windows Server
+js
+Full-stack
+Cypress
+ECS
+Next.js
+julia
+1С: БП
+Реклама в VK
+Чтение документации
+Подготовка презентаций
+Анализ текущей ситуации
+SAS RTDM
+Андеррайтинг
+Диссольвер
+Backend
+Spring Web
+PostgreSQL 13.2
+ODS
+TypeScript, CSS, HTML
+Apache Presto
+NGRX
+СЭД
+EMS
+OpenShif
+Quartz
+up
+Внимание к деталям
+Wi-Fi
+Ml
+удаленная работа
+Ruby On Rails
+Swift
+Backbone
+KendoUI
+security intelligence
+RBP
+Numpy
+Каталог данных
+ONNX
+Педагог
+ERMS
+AppStore
+React Testing
+Организация производства
+игры
+PIX ROBOTICS
+Разработка тест-кейсов
+troubleshooting Linux
+Чтение документации на английском языке без переводчиков
+K8S
+LangChain
+Directum
+Оперативный поиск информации в сети Интернет
+Умение изучать
+Adobe Design
+С++
+1С:Предприятие
+A-Parser
+Information Technology
+HTTP
+Interin
+Предметная фотосъемка
+service lead
+Angular
+Veeam Backup & Replication
+Основы программирования
+Монетизация
+Windows ХР\7\8\10
+Статистический анализ
+Vue.js;
+Проектный менеджмент
+BC/NAV
+BPM
+Электрика
+Kill Chain
+Oathkeeper
+Техническое обслуживание
+unit тесты
+technical support
+построение и анализ синтаксических деревьев
+Английский — B2 — Средне-продвинутый
+.NET Framework 4
+web-sockets
+Power Bi
+Unreal Engine 4
+Scylla
+.NET 6
+Организация встреч
+Разработка меню
+WYSIWYG редакторы (Tilda, Shopify)
+B2C продажи
+СКУД
+Logstash, Kibana, Grafana
+kibana
+Google Cloud Platform
+руководство командой тестировщиков
+Предиктивная аналитика
+Написание скриптов
+Game Development
+Онлайн, офлайн и blended обучение
+mobx
+Load Test
+Hibernate
+Корпоративное право
+PulP
+Развитие бренда
+log-файлы
+Domain Driven Design
+API (REST/GRPC)
+GoLang
+Adobe InDesign
+Анализ бизнес требований
+selenium
+JQuery UI
+Корейский язык
+GitLabCI
+nanoCAD
+Умение работать в команде и самостоятельно
+Опыт проектирование и разработки на Java микросервисов;
+ChatGPT
+crypto
+PowerMill
+REST,
+Аналитические исследования
+DynamoDB
+TS
+IDF
+Сlickhouse
+C++, C, SQL, CSS;
+система сбора данных
+Baremetal
+Дизайн полиграфии
+Oral and written communications skills
+Grid Layout
+Mashine learning
+Xamarin
+1С MDM
+JMS/Kafka
+Data Catalog
+Кластерный анализ
+Работа с блогерами
+HADI-циклы
+Заинтересованность в новом
+.NET Core
+HBA
+OpenvSwitch
+1С: Предприятие: Розница
+ЦФТ
+Web-приложения
+SRE
+BI-платформы
+Spark
+Key Collector
+SecurityVision
+OpenStack
+JavaScript (ES5, ES6)
+Навыки разрешения спорных ситуаций
+Разработка архитектуры проекта
+DCS
+Медиапланирование
+SQL-запросы
+IP телефония
+kratos
+Starlette
+Databases
+чек-листы
+APEX
+DSP
+Разработка стратегии
+Alembic
+Ведение активных клиентов
+react
+Веб-дизайн
+MAC
+Навыки работы с docker/docker-compose
+SLI
+Mathematical Programming
+Удаленная работа
+System Operations
+K6
+Unix Shell Scripts
+PostgreSQL
+UIKit
+HP LoadRunner
+Навыки работы с документацией
+StreamLit
+Разработка маркетинговой стратегии
+SmartMonitor
+Linux
+рекомендации
+LUMIRA
+merge requests
+Организаторские навыки
+Xilinx
+My SQL
+Redux/
+UI5Tooling
+mypy
+FICO
+Русский — C1 — Продвинутый
+тест-кейсы
+NET Core
+Component Library
+Проектирование ПО
+IBSO
+XXE
+CSS3-фичи
+GRC AM
+ES6/7
+Анализ проблемной задолженности
+Работа с лабораторными стендами
+Yandex Cloud Platform/ Azure/ AWS
+Стратегическое планирование
+App Store
+React JS
+QML
+C++ Builder
+SIEM
+Отчетности по страховым резервам для регулятора
+Желание и способность постоянно развиваться
+NOC
+ExtJS
+Позитивное мышление
+Mvvm
+Учитель
+Testcontainers
+C++ 17
+webpack,
+affiliate marketing
+Микроконтроллеры
+Бизнес-процессы
+Хорошая ориентация в интернете
+Zipkin
+TypeScript
+CUDA
+АБ тесты
+Алгоритмы
+Иллюстрирование
+Fastify
+1С-Битрикс
+Активные продажи
+VueJs
+Shop Script
+REST API/Open API
+EDMS
+UML/BPMN
+Редактирование текстов
+Logstash
+BitBucket.
+Android SDK
+DB2
+CocoaPods
+Навыки составления отчетности
+OC Linux
+1С-Рарус
+Clojure
+Экспертное знание Java EE;
+Дашборд
+МРР
+Привлечение клиентов
+OpenApi
+Облака
+jsfuzz
+Model pricing
+Чтение электросхем
+web vulnerabilities
+Техническое сопровождение
+WooCommerce
+RnD
+Уверенный пользователь ПК
+Коммуникабельность
+CCNP
+Locust
+mVAS
+IP-телефония на базе Asterisk
+Сопровождение ПО
+Знание Frontend-разработки и React
+Sklearn
+С, JS
+Native Application
+Room
+benthos
+PHPstorm
+Коммерческая разработка
+Net Core 3+
+1C
+Разработка Платформы
+HTTP/HTTPS
+OAuth
+olap-кубы
+Adobe Audition
+1С: УХ
+Allure TestOps
+Бизнес статистика
+USB
+Проектирование архитектуры
+Python RL обучение с подкреплением
+УФ-отверждаемые фотополимеры
+Visual Studio Code
+grpc
+k8s/Docker
+Ответственное отношение к работе
+Docker/ Kubernetes
+Gitlab/ci
+финансовый маркетплейс
+Dell EMC
+Реляционные базы данных
+Энтузиазм
+Тарифообразование
+техническая сделка
+Reporting Services
+Базы данных: OLAP
+Управление запасами
+WEB Socket
+Cucumber
+shell
+Предиктивные модели
+Sisense, Apache SuperSet, Tableau, ITIL, ITSM, SQL, Jupiter, Python, JavaScript, API, JSON
+Прокладка кабелей
+Ремонт и техническое обслуживание
+Финансовая отчетность
+hydra
+Коммерция
+Mustache
+RESTful API
+WSO2 Stream Processor
+Bitrix24
+Routing Protocols
+Customer Relationship Management
+Nordic nRF
+Хранилище данных
+Настройка DNS
+jetbrains
+Управление товарными запасами
+IPv4
+GPIO
+Testcase
+Разработка рекомендаций
+Gemedev
+Verilog HDL
+MS PowerPoint
+React Node.js
+Планирование продаж
+Умение быстро принимать решения
+Header Bidding
+Analytical skills
+Разработка мобильных приложений
+Документальное сопровождение
+LXC
+yocto
+CTF
+IDEF0
+Navigation
+Unix/Linux
+ML Engineer
+Chrome DevTools
+● опыт промышленной коммерческой разработки от 3 лет;
+MediatR
+Графические редакторы
+Аудит поисковой видимости сайта
+Bloc
+Ethers.rs
+Test Cases
+gamedev
+Гранд-смета
+Siebel eService
+Планирование рабочего дня руководителя
+EF Core
+Liquibase
+Фитнес
+Сопротивление материалов
+MetaTrader
+Спрос и предложение
+TestNG
+гибрид
+Next.Js
+Тестирование юзабилити
+ARM
+MediaWiki
+Харизма
+SPI
+WebGUI
+UML
+E-Mail Marketing
+RLC
+Java SE
+GPT
+Устойчивость к стрессам
+Экономический аудит
+3D Max
+Планирование
+Математические исследования
+Лидогенерация
+Effector
+HR Business Strategy
+Unigui
+numba
+Unix
+Flask
+WireShark
+Управление качеством
+postgress
+Security research
+GIS
+Websockets
+Dell
+HTML + CSS + JavaScript
+Контейнеризация
+SignalR
+Подбор компонентов
+IBM ApiConnect
+Dbeaver
+Jupyter Notebook
+Токарно-фрезерная группа
+SSAS
+RPC
+Mathematical Modeling
+lightgbm
+Умение работать самостоятельно и в команде
+поиск
+CPL
+Jira
+Product Design
+Химик-исследователь
+ПЛК
+i2c
+Ассортиментная матрица
+Pytorch
+Опытный пользователь ПК, знание MS Office
+Sidekiq
+MS Project
+информационное моделирование
+Деловое общение
+Redux/Hooks
+Product Managment
+mvvm
+металлообработка
+Строительно-отделочные работы
+unit-тесты
+Reddis
+ePLAN
+Symfony 5-6
+Разработка концепции
+DataWarehouse
+HRB
+Engineering
+Яндекс метрики
+Async
+.NET 5+
+Delta BI
+Yadro
+FMCW
+yarn
+Docker-compose
+GO
+Аудит системы управления охраной труда
+ЦОД
+Azure DevOps Server (TFS)
+GA4
+Git Flow
+redux-saga
+Резервное копирование
+Тестирование мобильных приложений
+Склонностные модели
+SQL, PostgreSQL, REST API, Kafka, XML/XSD, JSON/JSON-Schema, WSDL/Swagger
+Сопровождение клиентов
+Автоматизация процессов тестирования
+Shell
+grc
+конвертация данных
+Разработка проектной документации
+HTTPS и JSON
+Ultrascale
+Tieto Card Suite
+Windows Os
+VoIP
+Грамотная устная и письменная речь
+Исследования рынка
+Simulink
+ручное тестирование
+System Integration
+scikit-learn
+Описание бизнес-процессов
+CTO
+Стратегия продаж
+Plotly
+Kernel Space
+Sqoop
+LoadRuner
+ADB
+IBM Cognos TM1
+Flyway
+Tarantool
+MS Dynamics CRM
+Корпоративная этика
+Engineering Management
+Payments Gateway
+Маркетплейс
+порталы
+Algorithmic trading
+SMM
+nestjs
+Jira. Git
+1С: Торговля
+Manual QA
+Mediawiki
+SQL
+SpringBoot
+High-load
+Simple SCADA
+Wireless
+Планирование запасов
+Электронный архив
+Visual regression tools
+web pentest
+ЦФТ-Банк
+Работа с ПК
+.NET Core 3.0
+A/B тестирования
+LINQ
+Django REST Framework
+B2B маркетинг
+FastAPI
+БПЛА
+Beanstalkd
+vue
+Работа на производстве
+Выполнение технических заданий
+Проектная деятельность
+тестирование API
+TinyMCE
+regexp
+внимательность
+1С: Управление Производственным Предприятием
+Клиентские тарифы
+ларавель
+elk
+Администрирование сайтов
+Churn prediction
+Подготовка спецификаций
+ST Visual Develop
+Поиск и привлечение клиентов
+Оптимизация кода
+Psalm
+Angular 2
+Alertmanager
+SOLD
+Коллтрекинг
+qlik sense
+NoSQL
+TCL
+Data quality
+Selenium IDE
+dataOps
+SOAP
+Apache NiFi
+Знание косметических ингридиентов
+Плотницкие работы
+Infowatch
+1С: Зарплата и управление персоналом
+Nuxt 3
+администрирования сетевого оборудования
+OpenBMC
+Web разработчик
+EViews
+DSL
+производство
+PPS
+САПР
+Tornado
+Земельное право
+React-Admin
+ООП
+Max Patrol
+Телефонное интервью
+разработка научных отчетов
+Business Analysis
+SIEM системы
+CRO
+C Programming language
+SoapUI
+SMTP
+json
+Shared memory
+npm/yarn
+SCAN
+Citrix
+User Case
+DEM моделирование
+tbb
+TLS
+Анализ торговой марки
+Vanessa-Automation/Vanessa-ADD
+сети
+Scrum
+сборка
+сетевые приложения
+HuggingFace
+Планирование закупок
+Redis
+Научная деятельность
+Эффективное принятие решений
+Fine BI
+Android Apps
+swagger
+Teambuilding
+pydantic
+User Acquisition
+Системное программирование
+SGRC
+Симулятор
+CSS Modules
+bitbucket
+MySQL 8
+Visual Basic
+SAP
+KISS
+Postgres
+myTarget
+webasyst
+CMS Wordpress
+explain analyze
+Mongoose
+битрикс девелопер
+SIP
+Деривативы
+CRM Bitrix24
+OpenVidu
+Bochs
+LMS Moodle
+Подбор сотрудников
+БРЭО
+Angular 12+
+Twillio
+SmartVista
+Python,
+XML Dom
+JavaScript (ES5/ES6)
+STF open
+Bitrix Framework
+bypass
+DevOps
+Svelte
+Программирования (приветствуются Visual Basic, C#, Java или 1С);
+ANSI
+C3D
+Тарифы
+СЭД Тезис
+backend
+telegram
+WordPress
+Allure
+ThinkCell
+VirtualBox
+MVC
+.NET Core 3.1
+Умение планировать
+Alt Linux
+Вывод продукта на рынок
+внешний аудит сайта
+Power Pivot
+Archimate
+JSON REST API
+Аквариус
+Программирование 3D-графики
+Oracle DB
+OpenAPI
+мониторинг инцидентов
+docker compose
+Embedded-разработка
+Ironsource
+продажи IT решений
+pygame
+HPE Performance Center
+поддержка
+MetaBase
+разработка чертежей
+Magento
+UiPath
+Английский — B2 — Средне-продвинутый
+mmdet
+Ответственность
+Автоматизация процессов управления персоналом
+Firebird
+Pascal
+Atlassian Confluence
+clojure
+PL\SQL
+Тестирование ПО
+Fee Девелопмент
+Опытный пользователь ПК
+FFI
+Внедрение СЗИ
+Diffusion
+Python 2
+Provider
+высоконагруженные системы
+Graylog
+Проверка гипотез
+Баннерная реклама
+LAMP
+Инвестиционный анализ
+Capybara
+spring cloud
+DWDM
+клиентская аналитика
+Beckhoff
+networks
+Apache Superset
+JSON-schema
+gitlub
+LMS
+тест-менеджер
+SurveyToGo
+Wesoft HCM/Webtutor
+Продажа комплексных проектов
+Microsoft Office
+Продуктовые гипотезы
+Java 11/ Kotlin
+OC Windows
+SSRS(PBRS)
+Безопасность
+JVM
+НTML
+Гибкость мышления
+CG
+Взаимодействие с надзорными организациями
+Работа с метриками
+Blender
+SEO
+язык программирования
+OS Linux
+Jupiter
+Вентиляция и кондиционирование
+Linux/Windows
+Опыт написания проектной документации
+CAC
+Web security assessment
+Маркетинговые системы
+Планирование карьеры
+Mathcad
+DDOS
+Разработка платформы
+Biesse, Altendorf, Filato, Holz-Her, Homag, KDT, Mayer, Nanxing, Schelling, SCM, Selco, Striebig
+REST JSON
+llm
+MS Visual C++
+Firebase
+Организация конференций
+Коммуникативность
+PMBOK
+сode review
+OSCP
+Управление бизнес процессами
+Умение работать с детьми
+Bare-Metal
+Организационная осведомленность
+Ведение переписки
+OpenSearch
+NPM
+Protobuf
+Credit Registry
+товарная аналитика
+Nexus
+EIM
+Субподрядные работы
+SDR
+WebSockets/Tcp Sockets
+Анализ АБС
+Android
+Clickup
+рyCharm
+DataOps
+Любовь к детям
+Selenoid
+Mlflow
+RedHat
+1С:БСП
+apache airflow
+FineBI
+ЗУП КОРП
+LLM
+JUnit 5 / Mockito / AssertJ / REST Assured / Cucumber
+Nest.js
+router
+Mongo DB
+yii2 / yii1
+Pricing
+EPC
+Исследования рынка труда
+Грамотная речь, умение убеждать
+HollySys
+SQL;
+Mathematics
+Data Fetching
+Планирование маркетинговых кампаний
+ASO
+RohdeSchwars
+Ssdlc
+ИБ
+CSS Grid
+Корпусные детали
+CRM
+Open Telemetry
+SWR
+KEDR
+ГОСТ 34
+HTML
+Perl
+Form Handling
+МИКРОКОНТРОЛЛЕРЫ
+управляющие программы
+Maven / Gradle
+Продуктовая аналитика
+Бизнес-аналитика
+Маркетплейст
+Sonatype Nexus
+RTSP
+Опыт работы с системами контроля версий (GIT)
+Системный подход
+Traefik
+NET 6.0
+Spring Cloud
+битрикс
+uniRX
+SEIM (HP ArcSight ESM)
+GDAL
+Mongo db
+Критический путь
+De novo
+data modeling
+Мониторинг
+Symphony
+nuxt+vue 3
+Вискозиметр
+Logbrocker
+Data Governance
+Проектирование зданий и сооружений
+Styled Components
+Data Warehouse
+AutoML
+css-modules
+Киберразведка
+Docker, Kubernetes, Nginx, HAProxy, Kafka
+dart
+Taiga UI
+Таргетированная реклама
+MQL
+LSTM
+Hashicorp vault
+знание языка Си
+C++
+EventLoop
+Бережливое производство
+Коммуникация
+WINCSP
+Project
+caffe
+LTE
+Luxury products
+Опыт оптимизации алгоритмов
+разработка системного ПО
+GitLab/GitHub/BitBucket
+автотест
+Strategic Partnership
+хранение и обработка данных
+планировать и оптимально организовать рабочий процесс
+SSRF
+Retail
+Git, Capistrano
+Graphic Design
+HMI
+CourseLab
+vulnerabilities
+Team City
+TypeScript Pattern Matching
+aiohttp
+Точность и внимательность к деталям
+1С: Комплексная автоматизация
+Системный Инженер
+SQL (MySQL)
+waterfall
+Octopus
+Системы контроля версий
+Управление сотрудниками в регионах
+антифрод
+Clickhouse
+GTM
+Непрерывное производство
+OpenText
+Laravel 9
+SolidWorks
+китайский язык
+UniRx
+Планировать и оптимально организовывать рабочий процесс
+НДС
+sap commerce
+JSON, XML
+Microsoft Hyper-V
+статьи
+php 7/8
+Английский язык (Intermediate)
+Wildfly/Nginx
+automation
+AngularJS
+проектрирование сайтов
+Java SDK
+Брендинг
+Исполнительность
+Жилая недвижимость
+Парсинг
+Координация работы проектировщиков
+Контекстная реклама
+работа с партнерами
+Управление персоналом
+Разработка нового продукта
+Администрирование процесса обучения
+Навыки деловой переписки и делового общения
+Grafana
+Sphinx, RabbitMQ, Clickhouse, Redis, Tarantool, MongoDB, Docker, Kubernetes.
+DLP (Devicelock, Search Inform, Spector360)
+ПУЭ
+Allure Test Ops
+Rikor
+TtypeScript
+системы управления
+Simulia Abaqus
+Кадровая стратегия
+HP Data Protector
+Software Defined Networking
+Проведение исследований
+PostGis
+Доработка 1С
+Cистемная интеграция
+.NET Core 7
+JTBD
+PHPUnit
+insomnia
+Риск-менеджмент
+Aquarius
+AppMetrica
+restful
+hostapd
+Employer Branding
+PyCharm
+Google Sheets
+ABAP
+Recruitment
+Elastik
+Gunicorn
+security operation center
+vue2
+Scripting
+Разработка логистики
+Экологическая безопасность
+UART
+телефония
+Injecction
+Mobx
+python3
+PHP5
+Полунатурное моделирование
+Apache2
+vSphere
+Lazarus
+safetynet
+МЭК 61850
+REST FULL API
+Snort
+Cистемы управления базами данных
+Sas
+Spring
+telethon
+qemu
+Монтаж видео
+RHEL-CentOS
+DITA
+ПО
+Tableau, Power BI, DataLens, Looker Studio
+Woorank
+Nuxt 2
+openmp
+Базовые знания HTML и CSS
+Geoscience
+Статистика
+Динамика
+Weborama
+Penetration test
+Google script
+Joomla CMS
+Fanuc
+batch
+chrome headless
+Uvicorn
+Unity3D
+урбанистика
+Linux kernel
+Agilent
+Разработка склада
+Siemens TIA Portal
+ИТ аудит
+STA
+Hue
+Enterprise Content Management
+Ionic
+баг-репорты
+fullstack developer
+Ad Hoc Analysis
+Sentry
+Adobe Lightroom
+Microservice Architecture
+Postgres Pro
+Общая психология
+опыт работы с high load сервисами
+Redux-thunk
+Mobile QA
+PD, LGD, EAD
+AC/DC
+Организационное развитие
+Apache SuperSet
+Финансовое планирование
+Умение анализировать
+Incident response
+BrowserStack
+Spark (pySpark)
+Контроль исправности оборудования
+Windows
+Робототехника
+трейдер
+Viper
+SDK
+aurelia
+DevRel
+Gulp
+Написание скриптов и ПО
+ASi
+фильтр Калмана
+Прямые продажи
+Customer Service
+Keycloak
+PyTest
+Управление продуктом
+C++14
+Camunda BPM
+Yarn
+Vite 4.4
+C (Programming language)
+Datatables
+TypeScript,
+KUKA
+OpenMetadata
+Дистанционное обучение
+DICOM
+National instruments
+WebSocket,
+concurrency
+PTES
+Kinesis
+NPM/YARN
+Реинжиниринг бизнес-процессов
+GreenPlum
+Оптимизация рецептур
+Опыт внедрения ИТ-систем управления производством
+1С:ERP
+Маршрутизация
+Оперативное планирование
+Qt5+
+чтение технической документации
+Gitlab CI
+PostgreSQL / MySQL,
+Организация презентаций
+Веб разработчик
+CSS-верстка
+DAMA DMBOK
+VB 6.0
+AioHttp
+IAR
+Vue3
+Rest Assured
+Music
+AnyLogic
+OpenStreetMap
+GSM
+Монтаж звука
+CAD
+Data scientist
+Node.js, PostgreSQL, Mocha, Chai
+Ads Data Hub
+Страхование
+Full Stack
+Tailwindcss
+Методология тестирования
+Automation
+NetBeans
+вебсервисы
+Less
+Работа с проектной документацией
+Доставка
+Test case
+Gitlab
+Windows API
+Авито
+Холодные звонки
+Pyomo
+JavaScript/TypeScript
+С#
+SQL-субр
+Наполнение контентом
+EAI
+Arendata
+VBA
+cypress
+Консультирование клиентов по телефону
+тестирование backed'a
+Поиск персонала в открытых источниках
+security assessment
+PL/pgSQL Python
+prometeus
+KNX
+начальный уровень
+Рекрутинг
+Data engineering
+Sourcing
+SDN
+Apache Ranger
+MS Access
+Brocade
+Java Servlets
+Организационное проектирование
+Инвестиции
+Blade
+English - B2
+ability to work with respect to colleagues and business partners
+BPMN
+Nielsen
+EROA, RORRAC, ROE, NPV
+ESLint
+MFC
+SwiftUI
+Machine Learning Engineer
+Кибер бэкап
+IBM InfoSphere Guardium
+afl++
+Tockenomic
+backend-сервисы
+SAP BO
+Сертификация продукции
+Blockchain
+CRM аналитика
+PT SWARM
+BPMN 2.0
+Криптография
+Анализ рынка
+Spring MVC
+BlueTeam
+MVVMС
+Qlik
+SOAPUI
+PHP 7.4+
+ElacticSearch
+Lean Production
+junior
+Формирование планов по подбору персонала
+Портфельный анализ
+Nifi
+Основы SQL
+Открыта для новых знаний
+Коммуникабельность, стрессоустойчивость
+b2b исследования
+Текстовая оптимизация
+SAS DI
+Spring Security
+gRPS
+Продуктовый анализ
+1С
+ПЛИС
+ARIS
+g++
+PDCP
+Vue Router
+микроконтроллеры
+Технический аудит сайта
+Borland C++
+X-Ray
+EDWH
+Espresso
+Java Concurrency
+Управление талантами
+ExperionPKS
+Redux-toolkit
+Building ML models
+Финансы
+вычислительная математика
+Мониторинг информационной безопасности
+iOS
+CIO
+MTA Postfix
+Производственный контроль
+Kubetnetes
+IBM MQ, RabbitMQ, etc
+DMP
+НТД
+ansible
+Boost
+Flexbox
+Точность и внимательность
+qlikview
+руководство командой разработчиков
+it
+Technical documentation
+AS IS/TO BE mapping
+Эффективная коммуникация
+RxSwift
+Организация учебного процесса
+Умение работать в коллективе
+Техническое задание
+Алгоритмы и структуры данных
+Docret
+Pyautogui
+Keil
+Разработчик C++
+WebSockets
+Машинное обучение
+PR
+TIP
+E-Learning
+Складская логистика
+OSPF
+Договоры подряда
+Docker/Kubernetes
+Celery + RabbitMQ
+Testrail
+moodle
+Оптимизация процессов
+ARMv8
+RoadRunner
+Wolfram Matematica
+rtos
+сопровождение
+.Net Core 3.1
+OSWE
+Groovy
+iSpring
+IIS
+MQS/ESB
+IBM Unica
+Тomcat
+ЭП
+эконометрика
+Мониторинг цен
+Node.js
+Software Development
+Strategic Planning
+MS SSMS
+legacy
+FIORI
+Процессинг
+AutoCAD
+Automation QA
+Маркетинг
+Схематехника
+Screaming Frog SEO Spider
+высоконагруженые системы
+Mathematical Analysis
+Информационные рассылки
+CleverData
+Business Process Management
+OTRS
+защита информации
+Веб-программирование
+DevExpress
+Математическое программирование
+DDL
+AOSP
+PostGIS
+исполнение поручений руководителя
+Маркетинговый анализ
+Общение с пользователями
+Ceph
+Эксплуатация
+werf
+Анализ поведения пользователей
+DOMObject
+JBoss
+Samba
+Подготовка управленческой отчетности
+TCP/IP
+Devextreme
+MS Dynamics
+NextJS
+E-Staff
+FPGA
+Siebel CRM Loyalty
+next.js
+Промышленный дизайн
+URLSession
+Теория вероятности
+ES6+
+Яндекс. Метрика
+Linux/Unix
+Бисерная мельница
+Kerberos
+PHP7
+Стратегия продукта
+серверное оборудование
+Продуктивность
+Alteryx
+Написание текстов
+Машиностроение
+Mongo
+Календарно-сетевые графики
+Drivers
+VMware vSphere 6.x
+Написание процедур
+MCU
+k8s
+Computer vision
+Open Search
+SentinelOne
+CamundaBPM
+Adobe Premier
+SOAR
+Sphinx
+content development
+Observable
+Абразиметр
+SoftPLC
+CI\CD
+трейдинг
+Многопоточность
+Менеджмент
+Формирование гипотез
+DMG
+Styled-components
+Gitlab CI/CD
+ПО ПЛК SIEMENS
+Navisworks
+fw: Ktor, Spring, Compose, Kotlin Multiplatform, jooq, Exposed; inf: Docker, git, gitlab, gra
+VXLAN
+DevtTools
+Rails
+Технический английский
+стандартизация бизнес процессов
+REST/SOAP
+маркетинговая аналитика
+elastic
+FrontEnd
+MES
+LTV
+Монтаж
+Португальский — B1 — Средний
+Beautiful Soup
+OOP
+HA-кластер
+Google Optimize
+Торговый маркетинг
+WCF
+Исполнение личных поручений руководителя
+Логика
+Webpack
+Vue JS
