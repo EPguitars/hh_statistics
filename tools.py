@@ -2,7 +2,7 @@ import os
 from itertools import cycle
 from random import shuffle
 
-from tools import proxies
+from proxies import proxies
 
 
 
